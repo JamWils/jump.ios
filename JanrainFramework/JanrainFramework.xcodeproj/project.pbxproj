@@ -90,7 +90,7 @@
 		C8E502B31BECEF51008A469F /* JRCaptureUser+Extras.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E5014F1BECEF50008A469F /* JRCaptureUser+Extras.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		C8E502B41BECEF51008A469F /* JRCaptureUser+Extras.m in Sources */ = {isa = PBXBuildFile; fileRef = C8E501501BECEF50008A469F /* JRCaptureUser+Extras.m */; };
 		C8E502B51BECEF51008A469F /* JREngageWrapper.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E501511BECEF50008A469F /* JREngageWrapper.h */; settings = {ATTRIBUTES = (Private, ); }; };
-		C8E502B71BECEF51008A469F /* JRNSDate+ISO8601_CaptureDateTimeString.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E501531BECEF50008A469F /* JRNSDate+ISO8601_CaptureDateTimeString.h */; settings = {ATTRIBUTES = (Private, ); }; };
+		C8E502B71BECEF51008A469F /* JRNSDate+ISO8601_CaptureDateTimeString.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E501531BECEF50008A469F /* JRNSDate+ISO8601_CaptureDateTimeString.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C8E502B81BECEF51008A469F /* JRNSDate+ISO8601_CaptureDateTimeString.m in Sources */ = {isa = PBXBuildFile; fileRef = C8E501541BECEF50008A469F /* JRNSDate+ISO8601_CaptureDateTimeString.m */; };
 		C8E502B91BECEF51008A469F /* JRTraditionalSigninViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E501551BECEF50008A469F /* JRTraditionalSigninViewController.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		C8E502BA1BECEF51008A469F /* JRTraditionalSigninViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C8E501561BECEF50008A469F /* JRTraditionalSigninViewController.m */; };
@@ -1348,6 +1348,7 @@
 				C8E502931BECEF51008A469F /* JRRunnersWorldGoApp.h in Headers */,
 				C8E502971BECEF51008A469F /* JRTemporaryData.h in Headers */,
 				C8E5027B1BECEF51008A469F /* JRImsElement.h in Headers */,
+				C8E502B71BECEF51008A469F /* JRNSDate+ISO8601_CaptureDateTimeString.h in Headers */,
 				C8E5026D1BECEF51008A469F /* JRCaptureUser.h in Headers */,
 				C8E502E71BECEF51008A469F /* JRNativeGooglePlus.h in Headers */,
 				C8E502AD1BECEF51008A469F /* JRCaptureObject+Internal.h in Headers */,
@@ -1366,7 +1367,6 @@
 				C8E502C91BECEF51008A469F /* NSDictionary+JRQueryParams.h in Headers */,
 				C8E502F11BECEF51008A469F /* JRPublishActivityController.h in Headers */,
 				C8E502CD1BECEF51008A469F /* NSURLRequest+JRQueryParams.h in Headers */,
-				C8E502B71BECEF51008A469F /* JRNSDate+ISO8601_CaptureDateTimeString.h in Headers */,
 				C8E502AB1BECEF51008A469F /* JRCaptureFlow.h in Headers */,
 				C8E502E01BECEF51008A469F /* JRJsonUtils.h in Headers */,
 				C8E502DE1BECEF51008A469F /* JRInfoBar.h in Headers */,

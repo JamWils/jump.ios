@@ -25,6 +25,7 @@ FOUNDATION_EXPORT const unsigned char JanrainFrameworkVersionString[];
 #import "JRCaptureTypes.h"
 #import "JRApidInterface.h"
 #import "JRCaptureObject.h"
+#import "JRNSDate+ISO8601_CaptureDateTimeString.h"
 
 //Generated/Classes
 #import "JRAccountsElement.h"
