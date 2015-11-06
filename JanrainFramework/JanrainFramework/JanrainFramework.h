@@ -24,6 +24,7 @@ FOUNDATION_EXPORT const unsigned char JanrainFrameworkVersionString[];
 #import "JREngageError.h"
 #import "JRCaptureTypes.h"
 #import "JRApidInterface.h"
+#import "JRCaptureObject.h"
 
 //Generated/Classes
 #import "JRAccountsElement.h"

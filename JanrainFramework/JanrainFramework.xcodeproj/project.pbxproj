@@ -10,7 +10,7 @@
 		C8E500E61BECEF31008A469F /* JanrainFramework.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E500E51BECEF31008A469F /* JanrainFramework.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C8E500ED1BECEF31008A469F /* JanrainFramework.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C8E500E21BECEF31008A469F /* JanrainFramework.framework */; };
 		C8E500F21BECEF31008A469F /* JanrainFrameworkTests.m in Sources */ = {isa = PBXBuildFile; fileRef = C8E500F11BECEF31008A469F /* JanrainFrameworkTests.m */; };
-		C8E502651BECEF51008A469F /* JRBase64.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E500FE1BECEF50008A469F /* JRBase64.h */; };
+		C8E502651BECEF51008A469F /* JRBase64.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E500FE1BECEF50008A469F /* JRBase64.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		C8E502661BECEF51008A469F /* JRBase64.m in Sources */ = {isa = PBXBuildFile; fileRef = C8E500FF1BECEF50008A469F /* JRBase64.m */; };
 		C8E502671BECEF51008A469F /* JRAccountsElement.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E501011BECEF50008A469F /* JRAccountsElement.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C8E502681BECEF51008A469F /* JRAccountsElement.m in Sources */ = {isa = PBXBuildFile; fileRef = C8E501021BECEF50008A469F /* JRAccountsElement.m */; };
@@ -34,7 +34,7 @@
 		C8E5027A1BECEF51008A469F /* JRFavoritesElement.m in Sources */ = {isa = PBXBuildFile; fileRef = C8E501141BECEF50008A469F /* JRFavoritesElement.m */; };
 		C8E5027B1BECEF51008A469F /* JRImsElement.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E501151BECEF50008A469F /* JRImsElement.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C8E5027C1BECEF51008A469F /* JRImsElement.m in Sources */ = {isa = PBXBuildFile; fileRef = C8E501161BECEF50008A469F /* JRImsElement.m */; };
-		C8E5027D1BECEF51008A469F /* JRLocation.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E501171BECEF50008A469F /* JRLocation.h */; };
+		C8E5027D1BECEF51008A469F /* JRLocation.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E501171BECEF50008A469F /* JRLocation.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		C8E5027E1BECEF51008A469F /* JRLocation.m in Sources */ = {isa = PBXBuildFile; fileRef = C8E501181BECEF50008A469F /* JRLocation.m */; };
 		C8E5027F1BECEF51008A469F /* JRName.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E501191BECEF50008A469F /* JRName.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C8E502801BECEF51008A469F /* JRName.m in Sources */ = {isa = PBXBuildFile; fileRef = C8E5011A1BECEF50008A469F /* JRName.m */; };
@@ -75,26 +75,26 @@
 		C8E502A31BECEF51008A469F /* JRCaptureApidInterface.m in Sources */ = {isa = PBXBuildFile; fileRef = C8E5013F1BECEF50008A469F /* JRCaptureApidInterface.m */; };
 		C8E502A41BECEF51008A469F /* JRCaptureConfig.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E501401BECEF50008A469F /* JRCaptureConfig.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C8E502A51BECEF51008A469F /* JRCaptureConfig.m in Sources */ = {isa = PBXBuildFile; fileRef = C8E501411BECEF50008A469F /* JRCaptureConfig.m */; };
-		C8E502A61BECEF51008A469F /* JRCaptureData.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E501421BECEF50008A469F /* JRCaptureData.h */; };
+		C8E502A61BECEF51008A469F /* JRCaptureData.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E501421BECEF50008A469F /* JRCaptureData.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		C8E502A71BECEF51008A469F /* JRCaptureData.m in Sources */ = {isa = PBXBuildFile; fileRef = C8E501431BECEF50008A469F /* JRCaptureData.m */; };
-		C8E502A81BECEF51008A469F /* JRCaptureEnvironment.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E501441BECEF50008A469F /* JRCaptureEnvironment.h */; };
+		C8E502A81BECEF51008A469F /* JRCaptureEnvironment.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E501441BECEF50008A469F /* JRCaptureEnvironment.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		C8E502A91BECEF51008A469F /* JRCaptureError.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E501451BECEF50008A469F /* JRCaptureError.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		C8E502AB1BECEF51008A469F /* JRCaptureFlow.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E501471BECEF50008A469F /* JRCaptureFlow.h */; };
+		C8E502AB1BECEF51008A469F /* JRCaptureFlow.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E501471BECEF50008A469F /* JRCaptureFlow.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		C8E502AC1BECEF51008A469F /* JRCaptureFlow.m in Sources */ = {isa = PBXBuildFile; fileRef = C8E501481BECEF50008A469F /* JRCaptureFlow.m */; };
-		C8E502AD1BECEF51008A469F /* JRCaptureObject+Internal.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E501491BECEF50008A469F /* JRCaptureObject+Internal.h */; };
-		C8E502AE1BECEF51008A469F /* JRCaptureObject.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E5014A1BECEF50008A469F /* JRCaptureObject.h */; };
+		C8E502AD1BECEF51008A469F /* JRCaptureObject+Internal.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E501491BECEF50008A469F /* JRCaptureObject+Internal.h */; settings = {ATTRIBUTES = (Private, ); }; };
+		C8E502AE1BECEF51008A469F /* JRCaptureObject.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E5014A1BECEF50008A469F /* JRCaptureObject.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C8E502AF1BECEF51008A469F /* JRCaptureObject.m in Sources */ = {isa = PBXBuildFile; fileRef = C8E5014B1BECEF50008A469F /* JRCaptureObject.m */; };
 		C8E502B01BECEF51008A469F /* JRCaptureTypes.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E5014C1BECEF50008A469F /* JRCaptureTypes.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		C8E502B11BECEF51008A469F /* JRCaptureUIRequestBuilder.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E5014D1BECEF50008A469F /* JRCaptureUIRequestBuilder.h */; };
+		C8E502B11BECEF51008A469F /* JRCaptureUIRequestBuilder.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E5014D1BECEF50008A469F /* JRCaptureUIRequestBuilder.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		C8E502B21BECEF51008A469F /* JRCaptureUIRequestBuilder.m in Sources */ = {isa = PBXBuildFile; fileRef = C8E5014E1BECEF50008A469F /* JRCaptureUIRequestBuilder.m */; };
-		C8E502B31BECEF51008A469F /* JRCaptureUser+Extras.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E5014F1BECEF50008A469F /* JRCaptureUser+Extras.h */; };
+		C8E502B31BECEF51008A469F /* JRCaptureUser+Extras.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E5014F1BECEF50008A469F /* JRCaptureUser+Extras.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		C8E502B41BECEF51008A469F /* JRCaptureUser+Extras.m in Sources */ = {isa = PBXBuildFile; fileRef = C8E501501BECEF50008A469F /* JRCaptureUser+Extras.m */; };
-		C8E502B51BECEF51008A469F /* JREngageWrapper.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E501511BECEF50008A469F /* JREngageWrapper.h */; };
-		C8E502B71BECEF51008A469F /* JRNSDate+ISO8601_CaptureDateTimeString.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E501531BECEF50008A469F /* JRNSDate+ISO8601_CaptureDateTimeString.h */; };
+		C8E502B51BECEF51008A469F /* JREngageWrapper.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E501511BECEF50008A469F /* JREngageWrapper.h */; settings = {ATTRIBUTES = (Private, ); }; };
+		C8E502B71BECEF51008A469F /* JRNSDate+ISO8601_CaptureDateTimeString.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E501531BECEF50008A469F /* JRNSDate+ISO8601_CaptureDateTimeString.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		C8E502B81BECEF51008A469F /* JRNSDate+ISO8601_CaptureDateTimeString.m in Sources */ = {isa = PBXBuildFile; fileRef = C8E501541BECEF50008A469F /* JRNSDate+ISO8601_CaptureDateTimeString.m */; };
-		C8E502B91BECEF51008A469F /* JRTraditionalSigninViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E501551BECEF50008A469F /* JRTraditionalSigninViewController.h */; };
+		C8E502B91BECEF51008A469F /* JRTraditionalSigninViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E501551BECEF50008A469F /* JRTraditionalSigninViewController.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		C8E502BA1BECEF51008A469F /* JRTraditionalSigninViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C8E501561BECEF50008A469F /* JRTraditionalSigninViewController.m */; };
-		C8E502BB1BECEF51008A469F /* NSMutableDictionary+JRDictionaryUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E501571BECEF50008A469F /* NSMutableDictionary+JRDictionaryUtils.h */; };
+		C8E502BB1BECEF51008A469F /* NSMutableDictionary+JRDictionaryUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E501571BECEF50008A469F /* NSMutableDictionary+JRDictionaryUtils.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		C8E502BC1BECEF51008A469F /* NSMutableDictionary+JRDictionaryUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = C8E501581BECEF50008A469F /* NSMutableDictionary+JRDictionaryUtils.m */; };
 		C8E502BD1BECEF51008A469F /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = C8E5015A1BECEF50008A469F /* Localizable.strings */; };
 		C8E502BE1BECEF51008A469F /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = C8E5015D1BECEF50008A469F /* .gitignore */; };
@@ -106,57 +106,57 @@
 		C8E502C41BECEF51008A469F /* reserved_attributes.json in Resources */ = {isa = PBXBuildFile; fileRef = C8E501631BECEF50008A469F /* reserved_attributes.json */; };
 		C8E502C51BECEF51008A469F /* simple_capture_demo_schema.json in Resources */ = {isa = PBXBuildFile; fileRef = C8E501641BECEF50008A469F /* simple_capture_demo_schema.json */; };
 		C8E502C61BECEF51008A469F /* typemap.txt in Resources */ = {isa = PBXBuildFile; fileRef = C8E501651BECEF50008A469F /* typemap.txt */; };
-		C8E502C71BECEF51008A469F /* JRConnectionManager.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E501671BECEF50008A469F /* JRConnectionManager.h */; };
+		C8E502C71BECEF51008A469F /* JRConnectionManager.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E501671BECEF50008A469F /* JRConnectionManager.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		C8E502C81BECEF51008A469F /* JRConnectionManager.m in Sources */ = {isa = PBXBuildFile; fileRef = C8E501681BECEF50008A469F /* JRConnectionManager.m */; };
-		C8E502C91BECEF51008A469F /* NSDictionary+JRQueryParams.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E501691BECEF50008A469F /* NSDictionary+JRQueryParams.h */; };
+		C8E502C91BECEF51008A469F /* NSDictionary+JRQueryParams.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E501691BECEF50008A469F /* NSDictionary+JRQueryParams.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		C8E502CA1BECEF51008A469F /* NSDictionary+JRQueryParams.m in Sources */ = {isa = PBXBuildFile; fileRef = C8E5016A1BECEF50008A469F /* NSDictionary+JRQueryParams.m */; };
-		C8E502CB1BECEF51008A469F /* NSMutableURLRequest+JRRequestUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E5016B1BECEF50008A469F /* NSMutableURLRequest+JRRequestUtils.h */; };
+		C8E502CB1BECEF51008A469F /* NSMutableURLRequest+JRRequestUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E5016B1BECEF50008A469F /* NSMutableURLRequest+JRRequestUtils.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		C8E502CC1BECEF51008A469F /* NSMutableURLRequest+JRRequestUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = C8E5016C1BECEF50008A469F /* NSMutableURLRequest+JRRequestUtils.m */; };
-		C8E502CD1BECEF51008A469F /* NSURLRequest+JRQueryParams.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E5016D1BECEF50008A469F /* NSURLRequest+JRQueryParams.h */; };
+		C8E502CD1BECEF51008A469F /* NSURLRequest+JRQueryParams.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E5016D1BECEF50008A469F /* NSURLRequest+JRQueryParams.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		C8E502CE1BECEF51008A469F /* NSURLRequest+JRQueryParams.m in Sources */ = {isa = PBXBuildFile; fileRef = C8E5016E1BECEF50008A469F /* NSURLRequest+JRQueryParams.m */; };
 		C8E502CF1BECEF51008A469F /* ATTRIBUTION in Resources */ = {isa = PBXBuildFile; fileRef = C8E501701BECEF50008A469F /* ATTRIBUTION */; };
-		C8E502D01BECEF51008A469F /* debug_log.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E501721BECEF50008A469F /* debug_log.h */; };
+		C8E502D01BECEF51008A469F /* debug_log.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E501721BECEF50008A469F /* debug_log.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		C8E502D11BECEF51008A469F /* debug_log.m in Sources */ = {isa = PBXBuildFile; fileRef = C8E501731BECEF50008A469F /* debug_log.m */; };
-		C8E502D21BECEF51008A469F /* JRActivityObject.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E501741BECEF50008A469F /* JRActivityObject.h */; };
+		C8E502D21BECEF51008A469F /* JRActivityObject.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E501741BECEF50008A469F /* JRActivityObject.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		C8E502D31BECEF51008A469F /* JRActivityObject.m in Sources */ = {isa = PBXBuildFile; fileRef = C8E501751BECEF50008A469F /* JRActivityObject.m */; };
-		C8E502D41BECEF51008A469F /* JRCompatibilityUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E501761BECEF50008A469F /* JRCompatibilityUtils.h */; };
+		C8E502D41BECEF51008A469F /* JRCompatibilityUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E501761BECEF50008A469F /* JRCompatibilityUtils.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		C8E502D51BECEF51008A469F /* JRCompatibilityUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = C8E501771BECEF50008A469F /* JRCompatibilityUtils.m */; };
 		C8E502D61BECEF51008A469F /* JREngage+CustomInterface.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E501781BECEF50008A469F /* JREngage+CustomInterface.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C8E502D71BECEF51008A469F /* JREngage+CustomInterface.m in Sources */ = {isa = PBXBuildFile; fileRef = C8E501791BECEF50008A469F /* JREngage+CustomInterface.m */; };
-		C8E502D81BECEF51008A469F /* JREngage.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E5017A1BECEF50008A469F /* JREngage.h */; };
+		C8E502D81BECEF51008A469F /* JREngage.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E5017A1BECEF50008A469F /* JREngage.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		C8E502D91BECEF51008A469F /* JREngage.m in Sources */ = {isa = PBXBuildFile; fileRef = C8E5017B1BECEF50008A469F /* JREngage.m */; };
 		C8E502DA1BECEF51008A469F /* JREngageError.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E5017C1BECEF50008A469F /* JREngageError.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C8E502DB1BECEF51008A469F /* JREngageError.m in Sources */ = {isa = PBXBuildFile; fileRef = C8E5017D1BECEF50008A469F /* JREngageError.m */; };
-		C8E502DC1BECEF51008A469F /* JREngagePhonegapPlugin.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E5017E1BECEF50008A469F /* JREngagePhonegapPlugin.h */; };
+		C8E502DC1BECEF51008A469F /* JREngagePhonegapPlugin.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E5017E1BECEF50008A469F /* JREngagePhonegapPlugin.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		C8E502DD1BECEF51008A469F /* JREngagePhonegapPlugin.m in Sources */ = {isa = PBXBuildFile; fileRef = C8E5017F1BECEF50008A469F /* JREngagePhonegapPlugin.m */; };
-		C8E502DE1BECEF51008A469F /* JRInfoBar.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E501801BECEF50008A469F /* JRInfoBar.h */; };
+		C8E502DE1BECEF51008A469F /* JRInfoBar.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E501801BECEF50008A469F /* JRInfoBar.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		C8E502DF1BECEF51008A469F /* JRInfoBar.m in Sources */ = {isa = PBXBuildFile; fileRef = C8E501811BECEF50008A469F /* JRInfoBar.m */; };
-		C8E502E01BECEF51008A469F /* JRJsonUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E501821BECEF50008A469F /* JRJsonUtils.h */; };
+		C8E502E01BECEF51008A469F /* JRJsonUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E501821BECEF50008A469F /* JRJsonUtils.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		C8E502E11BECEF51008A469F /* JRJsonUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = C8E501831BECEF50008A469F /* JRJsonUtils.m */; };
-		C8E502E21BECEF51008A469F /* JRNativeAuth.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E501841BECEF50008A469F /* JRNativeAuth.h */; };
+		C8E502E21BECEF51008A469F /* JRNativeAuth.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E501841BECEF50008A469F /* JRNativeAuth.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		C8E502E31BECEF51008A469F /* JRNativeAuth.m in Sources */ = {isa = PBXBuildFile; fileRef = C8E501851BECEF50008A469F /* JRNativeAuth.m */; };
-		C8E502E41BECEF51008A469F /* JRNativeAuthConfig.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E501861BECEF50008A469F /* JRNativeAuthConfig.h */; };
-		C8E502E51BECEF51008A469F /* JRNativeFacebook.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E501871BECEF50008A469F /* JRNativeFacebook.h */; };
+		C8E502E41BECEF51008A469F /* JRNativeAuthConfig.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E501861BECEF50008A469F /* JRNativeAuthConfig.h */; settings = {ATTRIBUTES = (Private, ); }; };
+		C8E502E51BECEF51008A469F /* JRNativeFacebook.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E501871BECEF50008A469F /* JRNativeFacebook.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		C8E502E61BECEF51008A469F /* JRNativeFacebook.m in Sources */ = {isa = PBXBuildFile; fileRef = C8E501881BECEF50008A469F /* JRNativeFacebook.m */; };
-		C8E502E71BECEF51008A469F /* JRNativeGooglePlus.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E501891BECEF50008A469F /* JRNativeGooglePlus.h */; };
+		C8E502E71BECEF51008A469F /* JRNativeGooglePlus.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E501891BECEF50008A469F /* JRNativeGooglePlus.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		C8E502E81BECEF51008A469F /* JRNativeGooglePlus.m in Sources */ = {isa = PBXBuildFile; fileRef = C8E5018A1BECEF50008A469F /* JRNativeGooglePlus.m */; };
-		C8E502E91BECEF51008A469F /* JRNativeProvider.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E5018B1BECEF50008A469F /* JRNativeProvider.h */; };
+		C8E502E91BECEF51008A469F /* JRNativeProvider.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E5018B1BECEF50008A469F /* JRNativeProvider.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		C8E502EA1BECEF51008A469F /* JRNativeProvider.m in Sources */ = {isa = PBXBuildFile; fileRef = C8E5018C1BECEF50008A469F /* JRNativeProvider.m */; };
-		C8E502EB1BECEF51008A469F /* JRNativeTwitter.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E5018D1BECEF50008A469F /* JRNativeTwitter.h */; };
+		C8E502EB1BECEF51008A469F /* JRNativeTwitter.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E5018D1BECEF50008A469F /* JRNativeTwitter.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		C8E502EC1BECEF51008A469F /* JRNativeTwitter.m in Sources */ = {isa = PBXBuildFile; fileRef = C8E5018E1BECEF50008A469F /* JRNativeTwitter.m */; };
-		C8E502ED1BECEF51008A469F /* JRPreviewLabel.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E5018F1BECEF50008A469F /* JRPreviewLabel.h */; };
+		C8E502ED1BECEF51008A469F /* JRPreviewLabel.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E5018F1BECEF50008A469F /* JRPreviewLabel.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		C8E502EE1BECEF51008A469F /* JRPreviewLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = C8E501901BECEF50008A469F /* JRPreviewLabel.m */; };
-		C8E502EF1BECEF51008A469F /* JRProvidersController.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E501911BECEF50008A469F /* JRProvidersController.h */; };
+		C8E502EF1BECEF51008A469F /* JRProvidersController.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E501911BECEF50008A469F /* JRProvidersController.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		C8E502F01BECEF51008A469F /* JRProvidersController.m in Sources */ = {isa = PBXBuildFile; fileRef = C8E501921BECEF50008A469F /* JRProvidersController.m */; };
-		C8E502F11BECEF51008A469F /* JRPublishActivityController.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E501931BECEF50008A469F /* JRPublishActivityController.h */; };
+		C8E502F11BECEF51008A469F /* JRPublishActivityController.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E501931BECEF50008A469F /* JRPublishActivityController.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		C8E502F21BECEF51008A469F /* JRPublishActivityController.m in Sources */ = {isa = PBXBuildFile; fileRef = C8E501941BECEF50008A469F /* JRPublishActivityController.m */; };
-		C8E502F31BECEF51008A469F /* JRSessionData.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E501951BECEF50008A469F /* JRSessionData.h */; };
+		C8E502F31BECEF51008A469F /* JRSessionData.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E501951BECEF50008A469F /* JRSessionData.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		C8E502F41BECEF51008A469F /* JRSessionData.m in Sources */ = {isa = PBXBuildFile; fileRef = C8E501961BECEF50008A469F /* JRSessionData.m */; };
-		C8E502F51BECEF51008A469F /* JRUserInterfaceMaestro.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E501971BECEF50008A469F /* JRUserInterfaceMaestro.h */; };
+		C8E502F51BECEF51008A469F /* JRUserInterfaceMaestro.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E501971BECEF50008A469F /* JRUserInterfaceMaestro.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		C8E502F61BECEF51008A469F /* JRUserInterfaceMaestro.m in Sources */ = {isa = PBXBuildFile; fileRef = C8E501981BECEF50008A469F /* JRUserInterfaceMaestro.m */; };
-		C8E502F71BECEF51008A469F /* JRUserLandingController.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E501991BECEF50008A469F /* JRUserLandingController.h */; };
+		C8E502F71BECEF51008A469F /* JRUserLandingController.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E501991BECEF50008A469F /* JRUserLandingController.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		C8E502F81BECEF51008A469F /* JRUserLandingController.m in Sources */ = {isa = PBXBuildFile; fileRef = C8E5019A1BECEF50008A469F /* JRUserLandingController.m */; };
-		C8E502F91BECEF51008A469F /* JRWebViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E5019B1BECEF50008A469F /* JRWebViewController.h */; };
+		C8E502F91BECEF51008A469F /* JRWebViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E5019B1BECEF50008A469F /* JRWebViewController.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		C8E502FA1BECEF51008A469F /* JRWebViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C8E5019C1BECEF50008A469F /* JRWebViewController.m */; };
 		C8E502FB1BECEF51008A469F /* JREngage-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = C8E5019D1BECEF50008A469F /* JREngage-Info.plist */; };
 		C8E502FC1BECEF51008A469F /* JREngagePlugin.js in Resources */ = {isa = PBXBuildFile; fileRef = C8E5019E1BECEF50008A469F /* JREngagePlugin.js */; };
@@ -339,7 +339,7 @@
 		C8E503AD1BECEF51008A469F /* JRProvidersController.xib in Resources */ = {isa = PBXBuildFile; fileRef = C8E5025F1BECEF51008A469F /* JRProvidersController.xib */; };
 		C8E503AE1BECEF51008A469F /* JRUserLandingController.xib in Resources */ = {isa = PBXBuildFile; fileRef = C8E502601BECEF51008A469F /* JRUserLandingController.xib */; };
 		C8E503AF1BECEF51008A469F /* JRWebViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = C8E502611BECEF51008A469F /* JRWebViewController.xib */; };
-		C8E503B01BECEF51008A469F /* SFHFKeychainUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E502631BECEF51008A469F /* SFHFKeychainUtils.h */; };
+		C8E503B01BECEF51008A469F /* SFHFKeychainUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E502631BECEF51008A469F /* SFHFKeychainUtils.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		C8E503B11BECEF51008A469F /* SFHFKeychainUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = C8E502641BECEF51008A469F /* SFHFKeychainUtils.m */; };
 		C8E503B31BECF00F008A469F /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C8E503B21BECF00F008A469F /* UIKit.framework */; };
 		C8E503B51BECF016008A469F /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C8E503B41BECF016008A469F /* Foundation.framework */; };
@@ -1344,6 +1344,7 @@
 				C8E502791BECEF51008A469F /* JRFavoritesElement.h in Headers */,
 				C8E5029B1BECEF51008A469F /* JRUrlsElement.h in Headers */,
 				C8E502991BECEF51008A469F /* JRTrainingPlanSelection.h in Headers */,
+				C8E502AE1BECEF51008A469F /* JRCaptureObject.h in Headers */,
 				C8E502931BECEF51008A469F /* JRRunnersWorldGoApp.h in Headers */,
 				C8E502971BECEF51008A469F /* JRTemporaryData.h in Headers */,
 				C8E5027B1BECEF51008A469F /* JRImsElement.h in Headers */,
@@ -1368,7 +1369,6 @@
 				C8E502B71BECEF51008A469F /* JRNSDate+ISO8601_CaptureDateTimeString.h in Headers */,
 				C8E502AB1BECEF51008A469F /* JRCaptureFlow.h in Headers */,
 				C8E502E01BECEF51008A469F /* JRJsonUtils.h in Headers */,
-				C8E502AE1BECEF51008A469F /* JRCaptureObject.h in Headers */,
 				C8E502DE1BECEF51008A469F /* JRInfoBar.h in Headers */,
 				C8E502EB1BECEF51008A469F /* JRNativeTwitter.h in Headers */,
 				C8E502E41BECEF51008A469F /* JRNativeAuthConfig.h in Headers */,
