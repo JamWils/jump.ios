@@ -16,9 +16,15 @@ FOUNDATION_EXPORT const unsigned char JanrainFrameworkVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <JanrainFramework/PublicHeader.h>
 
+#import "JRCapture.h"
+#import "JRCaptureConfig.h"
+#import "JRCaptureUser.h"
+#import "JREngage+CustomInterface.h"
+#import "JRCaptureError.h"
+#import "JREngageError.h"
 
 //JRCapture/Classes
-#import "JRCapture.h"
+/*#import "JRCapture.h"
 #import "JRCaptureApidInterface.h"
 #import "JRCaptureConfig.h"
 #import "JRCaptureData.h"
@@ -60,10 +66,10 @@ FOUNDATION_EXPORT const unsigned char JanrainFrameworkVersionString[];
 #import "JRPreviewLabel.h"
 #import "JRProvidersController.h"
 #import "JRPublishActivityController.h"
-#import "JRSessionData.h"
+
 #import "JRUserInterfaceMaestro.h"
 #import "JRUserLandingController.h"
-#import "JRWebViewController.h"
+#import "JRWebViewController.h"*/
 
 //Generated/Classes
 #import "JRAccountsElement.h"
