@@ -135,7 +135,7 @@
 		C8E502E11BECEF51008A469F /* JRJsonUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = C8E501831BECEF50008A469F /* JRJsonUtils.m */; };
 		C8E502E21BECEF51008A469F /* JRNativeAuth.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E501841BECEF50008A469F /* JRNativeAuth.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C8E502E31BECEF51008A469F /* JRNativeAuth.m in Sources */ = {isa = PBXBuildFile; fileRef = C8E501851BECEF50008A469F /* JRNativeAuth.m */; };
-		C8E502E41BECEF51008A469F /* JRNativeAuthConfig.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E501861BECEF50008A469F /* JRNativeAuthConfig.h */; settings = {ATTRIBUTES = (Private, ); }; };
+		C8E502E41BECEF51008A469F /* JRNativeAuthConfig.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E501861BECEF50008A469F /* JRNativeAuthConfig.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C8E502E51BECEF51008A469F /* JRNativeFacebook.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E501871BECEF50008A469F /* JRNativeFacebook.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		C8E502E61BECEF51008A469F /* JRNativeFacebook.m in Sources */ = {isa = PBXBuildFile; fileRef = C8E501881BECEF50008A469F /* JRNativeFacebook.m */; };
 		C8E502E71BECEF51008A469F /* JRNativeGooglePlus.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E501891BECEF50008A469F /* JRNativeGooglePlus.h */; settings = {ATTRIBUTES = (Private, ); }; };
@@ -1314,6 +1314,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C8E502B01BECEF51008A469F /* JRCaptureTypes.h in Headers */,
+				C8E502E41BECEF51008A469F /* JRNativeAuthConfig.h in Headers */,
 				C8E502691BECEF51008A469F /* JRAddressesElement.h in Headers */,
 				C8E502891BECEF51008A469F /* JRProfile.h in Headers */,
 				C8E502A21BECEF51008A469F /* JRCaptureApidInterface.h in Headers */,
@@ -1374,7 +1375,6 @@
 				C8E502E01BECEF51008A469F /* JRJsonUtils.h in Headers */,
 				C8E502DE1BECEF51008A469F /* JRInfoBar.h in Headers */,
 				C8E502EB1BECEF51008A469F /* JRNativeTwitter.h in Headers */,
-				C8E502E41BECEF51008A469F /* JRNativeAuthConfig.h in Headers */,
 				C8E502B51BECEF51008A469F /* JREngageWrapper.h in Headers */,
 				C8E502EF1BECEF51008A469F /* JRProvidersController.h in Headers */,
 				C8E502BB1BECEF51008A469F /* NSMutableDictionary+JRDictionaryUtils.h in Headers */,

@@ -28,6 +28,7 @@ FOUNDATION_EXPORT const unsigned char JanrainFrameworkVersionString[];
 #import "JRNSDate+ISO8601_CaptureDateTimeString.h"
 
 #import "JREngage.h"
+#import "JRNativeAuth.h"
 #import "JRNativeAuthConfig.h"
 
 
