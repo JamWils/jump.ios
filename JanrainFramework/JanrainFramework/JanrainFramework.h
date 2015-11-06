@@ -23,54 +23,6 @@ FOUNDATION_EXPORT const unsigned char JanrainFrameworkVersionString[];
 #import "JRCaptureError.h"
 #import "JREngageError.h"
 
-//JRCapture/Classes
-/*#import "JRCapture.h"
-#import "JRCaptureApidInterface.h"
-#import "JRCaptureConfig.h"
-#import "JRCaptureData.h"
-#import "JRCaptureEnvironment.h"
-#import "JRCaptureError.h"
-#import "JRCaptureFlow.h"
-#import "JRCaptureObject+Internal.h"
-#import "JRCaptureObject.h"
-#import "JRCaptureTypes.h"
-#import "JRCaptureUIRequestBuilder.h"
-#import "JRCaptureUser+Extras.h"
-#import "JREngageWrapper.h"
-#import "JRNSDate+ISO8601_CaptureDateTimeString.h"
-#import "JRTraditionalSigninViewController.h"
-#import "NSMutableDictionary+JRDictionaryUtils.h"
-
-//JRConnectionManager
-#import "JRConnectionManager.h"
-#import "NSDictionary+JRQueryParams.h"
-#import "NSMutableURLRequest+JRRequestUtils.h"
-#import "NSURLRequest+JRQueryParams.h"
-
-//JREngage/Classes
-#import "debug_log.h"
-#import "JRActivityObject.h"
-#import "JRCompatibilityUtils.h"
-#import "JREngage+CustomInterface.h"
-#import "JREngage.h"
-#import "JREngageError.h"
-#import "JREngagePhonegapPlugin.h"
-#import "JRInfoBar.h"
-#import "JRJsonUtils.h"
-#import "JRNativeAuth.h"
-#import "JRNativeAuthConfig.h"
-#import "JRNativeFacebook.h"
-#import "JRNativeGooglePlus.h"
-#import "JRNativeProvider.h"
-#import "JRNativeTwitter.h"
-#import "JRPreviewLabel.h"
-#import "JRProvidersController.h"
-#import "JRPublishActivityController.h"
-
-#import "JRUserInterfaceMaestro.h"
-#import "JRUserLandingController.h"
-#import "JRWebViewController.h"*/
-
 //Generated/Classes
 #import "JRAccountsElement.h"
 #import "JRAddressesElement.h"
