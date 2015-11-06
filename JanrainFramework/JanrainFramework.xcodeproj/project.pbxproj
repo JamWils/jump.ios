@@ -71,7 +71,7 @@
 		C8E5029F1BECEF51008A469F /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = C8E5013B1BECEF50008A469F /* .gitignore */; };
 		C8E502A01BECEF51008A469F /* JRCapture.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E5013C1BECEF50008A469F /* JRCapture.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C8E502A11BECEF51008A469F /* JRCapture.m in Sources */ = {isa = PBXBuildFile; fileRef = C8E5013D1BECEF50008A469F /* JRCapture.m */; };
-		C8E502A21BECEF51008A469F /* JRCaptureApidInterface.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E5013E1BECEF50008A469F /* JRCaptureApidInterface.h */; };
+		C8E502A21BECEF51008A469F /* JRCaptureApidInterface.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E5013E1BECEF50008A469F /* JRCaptureApidInterface.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C8E502A31BECEF51008A469F /* JRCaptureApidInterface.m in Sources */ = {isa = PBXBuildFile; fileRef = C8E5013F1BECEF50008A469F /* JRCaptureApidInterface.m */; };
 		C8E502A41BECEF51008A469F /* JRCaptureConfig.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E501401BECEF50008A469F /* JRCaptureConfig.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C8E502A51BECEF51008A469F /* JRCaptureConfig.m in Sources */ = {isa = PBXBuildFile; fileRef = C8E501411BECEF50008A469F /* JRCaptureConfig.m */; };
@@ -84,7 +84,7 @@
 		C8E502AD1BECEF51008A469F /* JRCaptureObject+Internal.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E501491BECEF50008A469F /* JRCaptureObject+Internal.h */; };
 		C8E502AE1BECEF51008A469F /* JRCaptureObject.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E5014A1BECEF50008A469F /* JRCaptureObject.h */; };
 		C8E502AF1BECEF51008A469F /* JRCaptureObject.m in Sources */ = {isa = PBXBuildFile; fileRef = C8E5014B1BECEF50008A469F /* JRCaptureObject.m */; };
-		C8E502B01BECEF51008A469F /* JRCaptureTypes.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E5014C1BECEF50008A469F /* JRCaptureTypes.h */; };
+		C8E502B01BECEF51008A469F /* JRCaptureTypes.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E5014C1BECEF50008A469F /* JRCaptureTypes.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C8E502B11BECEF51008A469F /* JRCaptureUIRequestBuilder.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E5014D1BECEF50008A469F /* JRCaptureUIRequestBuilder.h */; };
 		C8E502B21BECEF51008A469F /* JRCaptureUIRequestBuilder.m in Sources */ = {isa = PBXBuildFile; fileRef = C8E5014E1BECEF50008A469F /* JRCaptureUIRequestBuilder.m */; };
 		C8E502B31BECEF51008A469F /* JRCaptureUser+Extras.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E5014F1BECEF50008A469F /* JRCaptureUser+Extras.h */; };
@@ -1313,8 +1313,10 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C8E502B01BECEF51008A469F /* JRCaptureTypes.h in Headers */,
 				C8E502691BECEF51008A469F /* JRAddressesElement.h in Headers */,
 				C8E502891BECEF51008A469F /* JRProfile.h in Headers */,
+				C8E502A21BECEF51008A469F /* JRCaptureApidInterface.h in Headers */,
 				C8E502911BECEF51008A469F /* JRRunnersWorldFavoritesTemp.h in Headers */,
 				C8E5028D1BECEF51008A469F /* JRProfilesElement.h in Headers */,
 				C8E502731BECEF51008A469F /* JRDevicesElement.h in Headers */,
@@ -1368,7 +1370,6 @@
 				C8E502E01BECEF51008A469F /* JRJsonUtils.h in Headers */,
 				C8E502AE1BECEF51008A469F /* JRCaptureObject.h in Headers */,
 				C8E502DE1BECEF51008A469F /* JRInfoBar.h in Headers */,
-				C8E502A21BECEF51008A469F /* JRCaptureApidInterface.h in Headers */,
 				C8E502EB1BECEF51008A469F /* JRNativeTwitter.h in Headers */,
 				C8E502E41BECEF51008A469F /* JRNativeAuthConfig.h in Headers */,
 				C8E502E21BECEF51008A469F /* JRNativeAuth.h in Headers */,
@@ -1384,7 +1385,6 @@
 				C8E502F91BECEF51008A469F /* JRWebViewController.h in Headers */,
 				C8E502B31BECEF51008A469F /* JRCaptureUser+Extras.h in Headers */,
 				C8E502E91BECEF51008A469F /* JRNativeProvider.h in Headers */,
-				C8E502B01BECEF51008A469F /* JRCaptureTypes.h in Headers */,
 				C8E502D41BECEF51008A469F /* JRCompatibilityUtils.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
