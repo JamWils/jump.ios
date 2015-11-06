@@ -34,7 +34,7 @@
 		C8E5027A1BECEF51008A469F /* JRFavoritesElement.m in Sources */ = {isa = PBXBuildFile; fileRef = C8E501141BECEF50008A469F /* JRFavoritesElement.m */; };
 		C8E5027B1BECEF51008A469F /* JRImsElement.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E501151BECEF50008A469F /* JRImsElement.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C8E5027C1BECEF51008A469F /* JRImsElement.m in Sources */ = {isa = PBXBuildFile; fileRef = C8E501161BECEF50008A469F /* JRImsElement.m */; };
-		C8E5027D1BECEF51008A469F /* JRLocation.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E501171BECEF50008A469F /* JRLocation.h */; settings = {ATTRIBUTES = (Private, ); }; };
+		C8E5027D1BECEF51008A469F /* JRLocation.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E501171BECEF50008A469F /* JRLocation.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C8E5027E1BECEF51008A469F /* JRLocation.m in Sources */ = {isa = PBXBuildFile; fileRef = C8E501181BECEF50008A469F /* JRLocation.m */; };
 		C8E5027F1BECEF51008A469F /* JRName.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E501191BECEF50008A469F /* JRName.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C8E502801BECEF51008A469F /* JRName.m in Sources */ = {isa = PBXBuildFile; fileRef = C8E5011A1BECEF50008A469F /* JRName.m */; };
@@ -1348,6 +1348,7 @@
 				C8E502931BECEF51008A469F /* JRRunnersWorldGoApp.h in Headers */,
 				C8E502971BECEF51008A469F /* JRTemporaryData.h in Headers */,
 				C8E5027B1BECEF51008A469F /* JRImsElement.h in Headers */,
+				C8E5027D1BECEF51008A469F /* JRLocation.h in Headers */,
 				C8E502B71BECEF51008A469F /* JRNSDate+ISO8601_CaptureDateTimeString.h in Headers */,
 				C8E5026D1BECEF51008A469F /* JRCaptureUser.h in Headers */,
 				C8E502E71BECEF51008A469F /* JRNativeGooglePlus.h in Headers */,
@@ -1374,7 +1375,6 @@
 				C8E502E41BECEF51008A469F /* JRNativeAuthConfig.h in Headers */,
 				C8E502E21BECEF51008A469F /* JRNativeAuth.h in Headers */,
 				C8E502B51BECEF51008A469F /* JREngageWrapper.h in Headers */,
-				C8E5027D1BECEF51008A469F /* JRLocation.h in Headers */,
 				C8E502EF1BECEF51008A469F /* JRProvidersController.h in Headers */,
 				C8E502D81BECEF51008A469F /* JREngage.h in Headers */,
 				C8E502BB1BECEF51008A469F /* NSMutableDictionary+JRDictionaryUtils.h in Headers */,
