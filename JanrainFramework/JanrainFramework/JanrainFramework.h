@@ -45,7 +45,7 @@ FOUNDATION_EXPORT const unsigned char JanrainFrameworkVersionString[];
 #import "debug_log.h"
 #import "JRActivityObject.h"
 #import "JRCompatibilityUtils.h"
-#import "JREngage+CustomerInterface.h"
+#import "JREngage+CustomInterface.h"
 #import "JREngage.h"
 #import "JREngageError.h"
 #import "JREngagePhonegapPlugin.h"
