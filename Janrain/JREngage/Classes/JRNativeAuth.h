@@ -29,7 +29,8 @@
 
  * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
 
-#import <Foundation/Foundation.h>
+@import Foundation;
+@import UIKit;
 
 @protocol JRNativeAuthConfig;
 @class JRNativeProvider;

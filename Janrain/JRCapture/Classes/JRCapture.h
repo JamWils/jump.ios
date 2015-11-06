@@ -35,6 +35,7 @@
 
 #import "JRCaptureTypes.h"
 #import "JRCaptureApidInterface.h"
+@import UIKit;
 
 @class JRCaptureUser;
 @class JRCaptureConfig;

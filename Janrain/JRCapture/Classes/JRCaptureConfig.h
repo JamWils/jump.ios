@@ -30,6 +30,7 @@
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
 
 #import "JRCaptureTypes.h"
+@import Foundation;
 
 /**
  * @brief

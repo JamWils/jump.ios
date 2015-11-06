@@ -83,6 +83,7 @@
 #import <UIKit/UIKit.h>
 #import <Foundation/Foundation.h>
 
+@class JRNativeAuthConfig;
 @class JRActivityObject;
 
 /**
