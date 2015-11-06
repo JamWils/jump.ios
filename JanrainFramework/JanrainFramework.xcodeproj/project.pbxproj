@@ -123,7 +123,7 @@
 		C8E502D51BECEF51008A469F /* JRCompatibilityUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = C8E501771BECEF50008A469F /* JRCompatibilityUtils.m */; };
 		C8E502D61BECEF51008A469F /* JREngage+CustomInterface.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E501781BECEF50008A469F /* JREngage+CustomInterface.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C8E502D71BECEF51008A469F /* JREngage+CustomInterface.m in Sources */ = {isa = PBXBuildFile; fileRef = C8E501791BECEF50008A469F /* JREngage+CustomInterface.m */; };
-		C8E502D81BECEF51008A469F /* JREngage.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E5017A1BECEF50008A469F /* JREngage.h */; settings = {ATTRIBUTES = (Private, ); }; };
+		C8E502D81BECEF51008A469F /* JREngage.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E5017A1BECEF50008A469F /* JREngage.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C8E502D91BECEF51008A469F /* JREngage.m in Sources */ = {isa = PBXBuildFile; fileRef = C8E5017B1BECEF50008A469F /* JREngage.m */; };
 		C8E502DA1BECEF51008A469F /* JREngageError.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E5017C1BECEF50008A469F /* JREngageError.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C8E502DB1BECEF51008A469F /* JREngageError.m in Sources */ = {isa = PBXBuildFile; fileRef = C8E5017D1BECEF50008A469F /* JREngageError.m */; };
@@ -133,7 +133,7 @@
 		C8E502DF1BECEF51008A469F /* JRInfoBar.m in Sources */ = {isa = PBXBuildFile; fileRef = C8E501811BECEF50008A469F /* JRInfoBar.m */; };
 		C8E502E01BECEF51008A469F /* JRJsonUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E501821BECEF50008A469F /* JRJsonUtils.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		C8E502E11BECEF51008A469F /* JRJsonUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = C8E501831BECEF50008A469F /* JRJsonUtils.m */; };
-		C8E502E21BECEF51008A469F /* JRNativeAuth.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E501841BECEF50008A469F /* JRNativeAuth.h */; settings = {ATTRIBUTES = (Private, ); }; };
+		C8E502E21BECEF51008A469F /* JRNativeAuth.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E501841BECEF50008A469F /* JRNativeAuth.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C8E502E31BECEF51008A469F /* JRNativeAuth.m in Sources */ = {isa = PBXBuildFile; fileRef = C8E501851BECEF50008A469F /* JRNativeAuth.m */; };
 		C8E502E41BECEF51008A469F /* JRNativeAuthConfig.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E501861BECEF50008A469F /* JRNativeAuthConfig.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		C8E502E51BECEF51008A469F /* JRNativeFacebook.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E501871BECEF50008A469F /* JRNativeFacebook.h */; settings = {ATTRIBUTES = (Private, ); }; };
@@ -1346,6 +1346,8 @@
 				C8E502991BECEF51008A469F /* JRTrainingPlanSelection.h in Headers */,
 				C8E502AE1BECEF51008A469F /* JRCaptureObject.h in Headers */,
 				C8E502931BECEF51008A469F /* JRRunnersWorldGoApp.h in Headers */,
+				C8E502E21BECEF51008A469F /* JRNativeAuth.h in Headers */,
+				C8E502D81BECEF51008A469F /* JREngage.h in Headers */,
 				C8E502971BECEF51008A469F /* JRTemporaryData.h in Headers */,
 				C8E5027B1BECEF51008A469F /* JRImsElement.h in Headers */,
 				C8E5027D1BECEF51008A469F /* JRLocation.h in Headers */,
@@ -1373,10 +1375,8 @@
 				C8E502DE1BECEF51008A469F /* JRInfoBar.h in Headers */,
 				C8E502EB1BECEF51008A469F /* JRNativeTwitter.h in Headers */,
 				C8E502E41BECEF51008A469F /* JRNativeAuthConfig.h in Headers */,
-				C8E502E21BECEF51008A469F /* JRNativeAuth.h in Headers */,
 				C8E502B51BECEF51008A469F /* JREngageWrapper.h in Headers */,
 				C8E502EF1BECEF51008A469F /* JRProvidersController.h in Headers */,
-				C8E502D81BECEF51008A469F /* JREngage.h in Headers */,
 				C8E502BB1BECEF51008A469F /* NSMutableDictionary+JRDictionaryUtils.h in Headers */,
 				C8E502651BECEF51008A469F /* JRBase64.h in Headers */,
 				C8E502D21BECEF51008A469F /* JRActivityObject.h in Headers */,
