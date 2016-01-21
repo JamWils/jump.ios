@@ -94,10 +94,13 @@
                             break;
                     }
                 };
-        ((void(*)(id, SEL, NSArray*, BOOL, void (^__strong)(__strong id, unsigned int, NSError *__strong)))objc_msgSend)(
-                fbSession,
-                NSSelectorFromString(@"openActiveSessionWithReadPermissions:allowLoginUI:completionHandler:"),
-                @[], YES, handler);
+        typedef void (^fbHandler)(id, unsigned int, NSError *);
+        
+        typedef void (*send_type)(void *, SEL, NSArray *, BOOL, fbHandler);
+        
+        send_type func = (send_type)objc_msgSend;
+        
+        func((__bridge void *)(fbSession), NSSelectorFromString(@"openActiveSessionWithReadPermissions:allowLoginUI:completionHandler:"), @[@"public_profile", @"email"], YES, handler);
     }
 }
 
