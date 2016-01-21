@@ -29,7 +29,7 @@
 		C87F3FE81C515FA100B1E3EF /* JREmailsElement.m in Sources */ = {isa = PBXBuildFile; fileRef = C87F3E571C515FA000B1E3EF /* JREmailsElement.m */; };
 		C87F3FE91C515FA100B1E3EF /* JRFavoritesElement.h in Headers */ = {isa = PBXBuildFile; fileRef = C87F3E581C515FA000B1E3EF /* JRFavoritesElement.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C87F3FEA1C515FA100B1E3EF /* JRFavoritesElement.m in Sources */ = {isa = PBXBuildFile; fileRef = C87F3E591C515FA000B1E3EF /* JRFavoritesElement.m */; };
-		C87F3FEB1C515FA100B1E3EF /* JRImsElement.h in Headers */ = {isa = PBXBuildFile; fileRef = C87F3E5A1C515FA000B1E3EF /* JRImsElement.h */; };
+		C87F3FEB1C515FA100B1E3EF /* JRImsElement.h in Headers */ = {isa = PBXBuildFile; fileRef = C87F3E5A1C515FA000B1E3EF /* JRImsElement.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C87F3FEC1C515FA100B1E3EF /* JRImsElement.m in Sources */ = {isa = PBXBuildFile; fileRef = C87F3E5B1C515FA000B1E3EF /* JRImsElement.m */; };
 		C87F3FED1C515FA100B1E3EF /* JRLocation.h in Headers */ = {isa = PBXBuildFile; fileRef = C87F3E5C1C515FA000B1E3EF /* JRLocation.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C87F3FEE1C515FA100B1E3EF /* JRLocation.m in Sources */ = {isa = PBXBuildFile; fileRef = C87F3E5D1C515FA000B1E3EF /* JRLocation.m */; };
@@ -1597,6 +1597,7 @@
 				C87F40141C515FA100B1E3EF /* JRCaptureConfig.h in Headers */,
 				C87F40201C515FA100B1E3EF /* JRCaptureTypes.h in Headers */,
 				C87F40121C515FA100B1E3EF /* JRCaptureApidInterface.h in Headers */,
+				C87F3FEB1C515FA100B1E3EF /* JRImsElement.h in Headers */,
 				C87F40521C515FA100B1E3EF /* JRNativeAuth.h in Headers */,
 				C87F40481C515FA100B1E3EF /* JREngage.h in Headers */,
 				C87F40571C515FA100B1E3EF /* JRNativeGooglePlus.h in Headers */,
@@ -1604,7 +1605,6 @@
 				C87F40671C515FA100B1E3EF /* JRUserLandingController.h in Headers */,
 				C87F40371C515FA100B1E3EF /* JRConnectionManager.h in Headers */,
 				C87F40161C515FA100B1E3EF /* JRCaptureData.h in Headers */,
-				C87F3FEB1C515FA100B1E3EF /* JRImsElement.h in Headers */,
 				C87F414B1C515FA100B1E3EF /* SFHFKeychainUtils.h in Headers */,
 				C87F40211C515FA100B1E3EF /* JRCaptureUIRequestBuilder.h in Headers */,
 				C87F404C1C515FA100B1E3EF /* JREngagePhonegapPlugin.h in Headers */,
