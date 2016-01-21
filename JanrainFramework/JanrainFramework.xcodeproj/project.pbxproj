@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		C87F3FD51C515FA100B1E3EF /* JRBase64.h in Headers */ = {isa = PBXBuildFile; fileRef = C87F3E431C515FA000B1E3EF /* JRBase64.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C87F3FD51C515FA100B1E3EF /* JRBase64.h in Headers */ = {isa = PBXBuildFile; fileRef = C87F3E431C515FA000B1E3EF /* JRBase64.h */; };
 		C87F3FD61C515FA100B1E3EF /* JRBase64.m in Sources */ = {isa = PBXBuildFile; fileRef = C87F3E441C515FA000B1E3EF /* JRBase64.m */; };
 		C87F3FD71C515FA100B1E3EF /* JRAccountsElement.h in Headers */ = {isa = PBXBuildFile; fileRef = C87F3E461C515FA000B1E3EF /* JRAccountsElement.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C87F3FD81C515FA100B1E3EF /* JRAccountsElement.m in Sources */ = {isa = PBXBuildFile; fileRef = C87F3E471C515FA000B1E3EF /* JRAccountsElement.m */; };
@@ -29,7 +29,7 @@
 		C87F3FE81C515FA100B1E3EF /* JREmailsElement.m in Sources */ = {isa = PBXBuildFile; fileRef = C87F3E571C515FA000B1E3EF /* JREmailsElement.m */; };
 		C87F3FE91C515FA100B1E3EF /* JRFavoritesElement.h in Headers */ = {isa = PBXBuildFile; fileRef = C87F3E581C515FA000B1E3EF /* JRFavoritesElement.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C87F3FEA1C515FA100B1E3EF /* JRFavoritesElement.m in Sources */ = {isa = PBXBuildFile; fileRef = C87F3E591C515FA000B1E3EF /* JRFavoritesElement.m */; };
-		C87F3FEB1C515FA100B1E3EF /* JRImsElement.h in Headers */ = {isa = PBXBuildFile; fileRef = C87F3E5A1C515FA000B1E3EF /* JRImsElement.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C87F3FEB1C515FA100B1E3EF /* JRImsElement.h in Headers */ = {isa = PBXBuildFile; fileRef = C87F3E5A1C515FA000B1E3EF /* JRImsElement.h */; };
 		C87F3FEC1C515FA100B1E3EF /* JRImsElement.m in Sources */ = {isa = PBXBuildFile; fileRef = C87F3E5B1C515FA000B1E3EF /* JRImsElement.m */; };
 		C87F3FED1C515FA100B1E3EF /* JRLocation.h in Headers */ = {isa = PBXBuildFile; fileRef = C87F3E5C1C515FA000B1E3EF /* JRLocation.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C87F3FEE1C515FA100B1E3EF /* JRLocation.m in Sources */ = {isa = PBXBuildFile; fileRef = C87F3E5D1C515FA000B1E3EF /* JRLocation.m */; };
@@ -72,28 +72,28 @@
 		C87F40131C515FA100B1E3EF /* JRCaptureApidInterface.m in Sources */ = {isa = PBXBuildFile; fileRef = C87F3E841C515FA000B1E3EF /* JRCaptureApidInterface.m */; };
 		C87F40141C515FA100B1E3EF /* JRCaptureConfig.h in Headers */ = {isa = PBXBuildFile; fileRef = C87F3E851C515FA000B1E3EF /* JRCaptureConfig.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C87F40151C515FA100B1E3EF /* JRCaptureConfig.m in Sources */ = {isa = PBXBuildFile; fileRef = C87F3E861C515FA000B1E3EF /* JRCaptureConfig.m */; };
-		C87F40161C515FA100B1E3EF /* JRCaptureData.h in Headers */ = {isa = PBXBuildFile; fileRef = C87F3E871C515FA000B1E3EF /* JRCaptureData.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C87F40161C515FA100B1E3EF /* JRCaptureData.h in Headers */ = {isa = PBXBuildFile; fileRef = C87F3E871C515FA000B1E3EF /* JRCaptureData.h */; };
 		C87F40171C515FA100B1E3EF /* JRCaptureData.m in Sources */ = {isa = PBXBuildFile; fileRef = C87F3E881C515FA000B1E3EF /* JRCaptureData.m */; };
-		C87F40181C515FA100B1E3EF /* JRCaptureEnvironment.h in Headers */ = {isa = PBXBuildFile; fileRef = C87F3E891C515FA000B1E3EF /* JRCaptureEnvironment.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C87F40181C515FA100B1E3EF /* JRCaptureEnvironment.h in Headers */ = {isa = PBXBuildFile; fileRef = C87F3E891C515FA000B1E3EF /* JRCaptureEnvironment.h */; };
 		C87F40191C515FA100B1E3EF /* JRCaptureError.h in Headers */ = {isa = PBXBuildFile; fileRef = C87F3E8A1C515FA000B1E3EF /* JRCaptureError.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C87F401A1C515FA100B1E3EF /* JRCaptureError.m in Sources */ = {isa = PBXBuildFile; fileRef = C87F3E8B1C515FA000B1E3EF /* JRCaptureError.m */; };
-		C87F401B1C515FA100B1E3EF /* JRCaptureFlow.h in Headers */ = {isa = PBXBuildFile; fileRef = C87F3E8C1C515FA000B1E3EF /* JRCaptureFlow.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C87F401B1C515FA100B1E3EF /* JRCaptureFlow.h in Headers */ = {isa = PBXBuildFile; fileRef = C87F3E8C1C515FA000B1E3EF /* JRCaptureFlow.h */; };
 		C87F401C1C515FA100B1E3EF /* JRCaptureFlow.m in Sources */ = {isa = PBXBuildFile; fileRef = C87F3E8D1C515FA000B1E3EF /* JRCaptureFlow.m */; };
-		C87F401D1C515FA100B1E3EF /* JRCaptureObject+Internal.h in Headers */ = {isa = PBXBuildFile; fileRef = C87F3E8E1C515FA000B1E3EF /* JRCaptureObject+Internal.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C87F401D1C515FA100B1E3EF /* JRCaptureObject+Internal.h in Headers */ = {isa = PBXBuildFile; fileRef = C87F3E8E1C515FA000B1E3EF /* JRCaptureObject+Internal.h */; };
 		C87F401E1C515FA100B1E3EF /* JRCaptureObject.h in Headers */ = {isa = PBXBuildFile; fileRef = C87F3E8F1C515FA000B1E3EF /* JRCaptureObject.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C87F401F1C515FA100B1E3EF /* JRCaptureObject.m in Sources */ = {isa = PBXBuildFile; fileRef = C87F3E901C515FA000B1E3EF /* JRCaptureObject.m */; };
 		C87F40201C515FA100B1E3EF /* JRCaptureTypes.h in Headers */ = {isa = PBXBuildFile; fileRef = C87F3E911C515FA000B1E3EF /* JRCaptureTypes.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		C87F40211C515FA100B1E3EF /* JRCaptureUIRequestBuilder.h in Headers */ = {isa = PBXBuildFile; fileRef = C87F3E921C515FA000B1E3EF /* JRCaptureUIRequestBuilder.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C87F40211C515FA100B1E3EF /* JRCaptureUIRequestBuilder.h in Headers */ = {isa = PBXBuildFile; fileRef = C87F3E921C515FA000B1E3EF /* JRCaptureUIRequestBuilder.h */; };
 		C87F40221C515FA100B1E3EF /* JRCaptureUIRequestBuilder.m in Sources */ = {isa = PBXBuildFile; fileRef = C87F3E931C515FA000B1E3EF /* JRCaptureUIRequestBuilder.m */; };
-		C87F40231C515FA100B1E3EF /* JRCaptureUser+Extras.h in Headers */ = {isa = PBXBuildFile; fileRef = C87F3E941C515FA000B1E3EF /* JRCaptureUser+Extras.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C87F40231C515FA100B1E3EF /* JRCaptureUser+Extras.h in Headers */ = {isa = PBXBuildFile; fileRef = C87F3E941C515FA000B1E3EF /* JRCaptureUser+Extras.h */; };
 		C87F40241C515FA100B1E3EF /* JRCaptureUser+Extras.m in Sources */ = {isa = PBXBuildFile; fileRef = C87F3E951C515FA000B1E3EF /* JRCaptureUser+Extras.m */; };
-		C87F40251C515FA100B1E3EF /* JREngageWrapper.h in Headers */ = {isa = PBXBuildFile; fileRef = C87F3E961C515FA000B1E3EF /* JREngageWrapper.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C87F40251C515FA100B1E3EF /* JREngageWrapper.h in Headers */ = {isa = PBXBuildFile; fileRef = C87F3E961C515FA000B1E3EF /* JREngageWrapper.h */; };
 		C87F40261C515FA100B1E3EF /* JREngageWrapper.m in Sources */ = {isa = PBXBuildFile; fileRef = C87F3E971C515FA000B1E3EF /* JREngageWrapper.m */; };
 		C87F40271C515FA100B1E3EF /* JRNSDate+ISO8601_CaptureDateTimeString.h in Headers */ = {isa = PBXBuildFile; fileRef = C87F3E981C515FA000B1E3EF /* JRNSDate+ISO8601_CaptureDateTimeString.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C87F40281C515FA100B1E3EF /* JRNSDate+ISO8601_CaptureDateTimeString.m in Sources */ = {isa = PBXBuildFile; fileRef = C87F3E991C515FA000B1E3EF /* JRNSDate+ISO8601_CaptureDateTimeString.m */; };
-		C87F40291C515FA100B1E3EF /* JRTraditionalSigninViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = C87F3E9A1C515FA000B1E3EF /* JRTraditionalSigninViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C87F40291C515FA100B1E3EF /* JRTraditionalSigninViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = C87F3E9A1C515FA000B1E3EF /* JRTraditionalSigninViewController.h */; };
 		C87F402A1C515FA100B1E3EF /* JRTraditionalSigninViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C87F3E9B1C515FA000B1E3EF /* JRTraditionalSigninViewController.m */; };
-		C87F402B1C515FA100B1E3EF /* NSMutableDictionary+JRDictionaryUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = C87F3E9C1C515FA000B1E3EF /* NSMutableDictionary+JRDictionaryUtils.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C87F402B1C515FA100B1E3EF /* NSMutableDictionary+JRDictionaryUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = C87F3E9C1C515FA000B1E3EF /* NSMutableDictionary+JRDictionaryUtils.h */; };
 		C87F402C1C515FA100B1E3EF /* NSMutableDictionary+JRDictionaryUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = C87F3E9D1C515FA000B1E3EF /* NSMutableDictionary+JRDictionaryUtils.m */; };
 		C87F402D1C515FA100B1E3EF /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = C87F3E9F1C515FA000B1E3EF /* Localizable.strings */; };
 		C87F402E1C515FA100B1E3EF /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = C87F3EA21C515FA000B1E3EF /* .gitignore */; };
@@ -105,20 +105,20 @@
 		C87F40341C515FA100B1E3EF /* reserved_attributes.json in Resources */ = {isa = PBXBuildFile; fileRef = C87F3EA81C515FA000B1E3EF /* reserved_attributes.json */; };
 		C87F40351C515FA100B1E3EF /* simple_capture_demo_schema.json in Resources */ = {isa = PBXBuildFile; fileRef = C87F3EA91C515FA000B1E3EF /* simple_capture_demo_schema.json */; };
 		C87F40361C515FA100B1E3EF /* typemap.txt in Resources */ = {isa = PBXBuildFile; fileRef = C87F3EAA1C515FA000B1E3EF /* typemap.txt */; };
-		C87F40371C515FA100B1E3EF /* JRConnectionManager.h in Headers */ = {isa = PBXBuildFile; fileRef = C87F3EAC1C515FA000B1E3EF /* JRConnectionManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C87F40371C515FA100B1E3EF /* JRConnectionManager.h in Headers */ = {isa = PBXBuildFile; fileRef = C87F3EAC1C515FA000B1E3EF /* JRConnectionManager.h */; };
 		C87F40381C515FA100B1E3EF /* JRConnectionManager.m in Sources */ = {isa = PBXBuildFile; fileRef = C87F3EAD1C515FA000B1E3EF /* JRConnectionManager.m */; };
-		C87F40391C515FA100B1E3EF /* NSDictionary+JRQueryParams.h in Headers */ = {isa = PBXBuildFile; fileRef = C87F3EAE1C515FA000B1E3EF /* NSDictionary+JRQueryParams.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C87F40391C515FA100B1E3EF /* NSDictionary+JRQueryParams.h in Headers */ = {isa = PBXBuildFile; fileRef = C87F3EAE1C515FA000B1E3EF /* NSDictionary+JRQueryParams.h */; };
 		C87F403A1C515FA100B1E3EF /* NSDictionary+JRQueryParams.m in Sources */ = {isa = PBXBuildFile; fileRef = C87F3EAF1C515FA000B1E3EF /* NSDictionary+JRQueryParams.m */; };
-		C87F403B1C515FA100B1E3EF /* NSMutableURLRequest+JRRequestUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = C87F3EB01C515FA000B1E3EF /* NSMutableURLRequest+JRRequestUtils.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C87F403B1C515FA100B1E3EF /* NSMutableURLRequest+JRRequestUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = C87F3EB01C515FA000B1E3EF /* NSMutableURLRequest+JRRequestUtils.h */; };
 		C87F403C1C515FA100B1E3EF /* NSMutableURLRequest+JRRequestUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = C87F3EB11C515FA000B1E3EF /* NSMutableURLRequest+JRRequestUtils.m */; };
-		C87F403D1C515FA100B1E3EF /* NSURLRequest+JRQueryParams.h in Headers */ = {isa = PBXBuildFile; fileRef = C87F3EB21C515FA000B1E3EF /* NSURLRequest+JRQueryParams.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C87F403D1C515FA100B1E3EF /* NSURLRequest+JRQueryParams.h in Headers */ = {isa = PBXBuildFile; fileRef = C87F3EB21C515FA000B1E3EF /* NSURLRequest+JRQueryParams.h */; };
 		C87F403E1C515FA100B1E3EF /* NSURLRequest+JRQueryParams.m in Sources */ = {isa = PBXBuildFile; fileRef = C87F3EB31C515FA000B1E3EF /* NSURLRequest+JRQueryParams.m */; };
 		C87F403F1C515FA100B1E3EF /* ATTRIBUTION in Resources */ = {isa = PBXBuildFile; fileRef = C87F3EB51C515FA000B1E3EF /* ATTRIBUTION */; };
-		C87F40401C515FA100B1E3EF /* debug_log.h in Headers */ = {isa = PBXBuildFile; fileRef = C87F3EB71C515FA000B1E3EF /* debug_log.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C87F40401C515FA100B1E3EF /* debug_log.h in Headers */ = {isa = PBXBuildFile; fileRef = C87F3EB71C515FA000B1E3EF /* debug_log.h */; };
 		C87F40411C515FA100B1E3EF /* debug_log.m in Sources */ = {isa = PBXBuildFile; fileRef = C87F3EB81C515FA000B1E3EF /* debug_log.m */; };
-		C87F40421C515FA100B1E3EF /* JRActivityObject.h in Headers */ = {isa = PBXBuildFile; fileRef = C87F3EB91C515FA000B1E3EF /* JRActivityObject.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C87F40421C515FA100B1E3EF /* JRActivityObject.h in Headers */ = {isa = PBXBuildFile; fileRef = C87F3EB91C515FA000B1E3EF /* JRActivityObject.h */; };
 		C87F40431C515FA100B1E3EF /* JRActivityObject.m in Sources */ = {isa = PBXBuildFile; fileRef = C87F3EBA1C515FA000B1E3EF /* JRActivityObject.m */; };
-		C87F40441C515FA100B1E3EF /* JRCompatibilityUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = C87F3EBB1C515FA000B1E3EF /* JRCompatibilityUtils.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C87F40441C515FA100B1E3EF /* JRCompatibilityUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = C87F3EBB1C515FA000B1E3EF /* JRCompatibilityUtils.h */; };
 		C87F40451C515FA100B1E3EF /* JRCompatibilityUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = C87F3EBC1C515FA000B1E3EF /* JRCompatibilityUtils.m */; };
 		C87F40461C515FA100B1E3EF /* JREngage+CustomInterface.h in Headers */ = {isa = PBXBuildFile; fileRef = C87F3EBD1C515FA000B1E3EF /* JREngage+CustomInterface.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C87F40471C515FA100B1E3EF /* JREngage+CustomInterface.m in Sources */ = {isa = PBXBuildFile; fileRef = C87F3EBE1C515FA000B1E3EF /* JREngage+CustomInterface.m */; };
@@ -126,36 +126,36 @@
 		C87F40491C515FA100B1E3EF /* JREngage.m in Sources */ = {isa = PBXBuildFile; fileRef = C87F3EC01C515FA000B1E3EF /* JREngage.m */; };
 		C87F404A1C515FA100B1E3EF /* JREngageError.h in Headers */ = {isa = PBXBuildFile; fileRef = C87F3EC11C515FA000B1E3EF /* JREngageError.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C87F404B1C515FA100B1E3EF /* JREngageError.m in Sources */ = {isa = PBXBuildFile; fileRef = C87F3EC21C515FA000B1E3EF /* JREngageError.m */; };
-		C87F404C1C515FA100B1E3EF /* JREngagePhonegapPlugin.h in Headers */ = {isa = PBXBuildFile; fileRef = C87F3EC31C515FA000B1E3EF /* JREngagePhonegapPlugin.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C87F404C1C515FA100B1E3EF /* JREngagePhonegapPlugin.h in Headers */ = {isa = PBXBuildFile; fileRef = C87F3EC31C515FA000B1E3EF /* JREngagePhonegapPlugin.h */; };
 		C87F404D1C515FA100B1E3EF /* JREngagePhonegapPlugin.m in Sources */ = {isa = PBXBuildFile; fileRef = C87F3EC41C515FA000B1E3EF /* JREngagePhonegapPlugin.m */; };
-		C87F404E1C515FA100B1E3EF /* JRInfoBar.h in Headers */ = {isa = PBXBuildFile; fileRef = C87F3EC51C515FA000B1E3EF /* JRInfoBar.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C87F404E1C515FA100B1E3EF /* JRInfoBar.h in Headers */ = {isa = PBXBuildFile; fileRef = C87F3EC51C515FA000B1E3EF /* JRInfoBar.h */; };
 		C87F404F1C515FA100B1E3EF /* JRInfoBar.m in Sources */ = {isa = PBXBuildFile; fileRef = C87F3EC61C515FA000B1E3EF /* JRInfoBar.m */; };
-		C87F40501C515FA100B1E3EF /* JRJsonUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = C87F3EC71C515FA000B1E3EF /* JRJsonUtils.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C87F40501C515FA100B1E3EF /* JRJsonUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = C87F3EC71C515FA000B1E3EF /* JRJsonUtils.h */; };
 		C87F40511C515FA100B1E3EF /* JRJsonUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = C87F3EC81C515FA000B1E3EF /* JRJsonUtils.m */; };
 		C87F40521C515FA100B1E3EF /* JRNativeAuth.h in Headers */ = {isa = PBXBuildFile; fileRef = C87F3EC91C515FA000B1E3EF /* JRNativeAuth.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C87F40531C515FA100B1E3EF /* JRNativeAuth.m in Sources */ = {isa = PBXBuildFile; fileRef = C87F3ECA1C515FA000B1E3EF /* JRNativeAuth.m */; };
 		C87F40541C515FA100B1E3EF /* JRNativeAuthConfig.h in Headers */ = {isa = PBXBuildFile; fileRef = C87F3ECB1C515FA000B1E3EF /* JRNativeAuthConfig.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		C87F40551C515FA100B1E3EF /* JRNativeFacebook.h in Headers */ = {isa = PBXBuildFile; fileRef = C87F3ECC1C515FA000B1E3EF /* JRNativeFacebook.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C87F40551C515FA100B1E3EF /* JRNativeFacebook.h in Headers */ = {isa = PBXBuildFile; fileRef = C87F3ECC1C515FA000B1E3EF /* JRNativeFacebook.h */; };
 		C87F40561C515FA100B1E3EF /* JRNativeFacebook.m in Sources */ = {isa = PBXBuildFile; fileRef = C87F3ECD1C515FA000B1E3EF /* JRNativeFacebook.m */; };
-		C87F40571C515FA100B1E3EF /* JRNativeGooglePlus.h in Headers */ = {isa = PBXBuildFile; fileRef = C87F3ECE1C515FA000B1E3EF /* JRNativeGooglePlus.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C87F40571C515FA100B1E3EF /* JRNativeGooglePlus.h in Headers */ = {isa = PBXBuildFile; fileRef = C87F3ECE1C515FA000B1E3EF /* JRNativeGooglePlus.h */; };
 		C87F40581C515FA100B1E3EF /* JRNativeGooglePlus.m in Sources */ = {isa = PBXBuildFile; fileRef = C87F3ECF1C515FA000B1E3EF /* JRNativeGooglePlus.m */; };
-		C87F40591C515FA100B1E3EF /* JRNativeProvider.h in Headers */ = {isa = PBXBuildFile; fileRef = C87F3ED01C515FA000B1E3EF /* JRNativeProvider.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C87F40591C515FA100B1E3EF /* JRNativeProvider.h in Headers */ = {isa = PBXBuildFile; fileRef = C87F3ED01C515FA000B1E3EF /* JRNativeProvider.h */; };
 		C87F405A1C515FA100B1E3EF /* JRNativeProvider.m in Sources */ = {isa = PBXBuildFile; fileRef = C87F3ED11C515FA000B1E3EF /* JRNativeProvider.m */; };
-		C87F405B1C515FA100B1E3EF /* JRNativeTwitter.h in Headers */ = {isa = PBXBuildFile; fileRef = C87F3ED21C515FA000B1E3EF /* JRNativeTwitter.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C87F405B1C515FA100B1E3EF /* JRNativeTwitter.h in Headers */ = {isa = PBXBuildFile; fileRef = C87F3ED21C515FA000B1E3EF /* JRNativeTwitter.h */; };
 		C87F405C1C515FA100B1E3EF /* JRNativeTwitter.m in Sources */ = {isa = PBXBuildFile; fileRef = C87F3ED31C515FA000B1E3EF /* JRNativeTwitter.m */; };
-		C87F405D1C515FA100B1E3EF /* JRPreviewLabel.h in Headers */ = {isa = PBXBuildFile; fileRef = C87F3ED41C515FA000B1E3EF /* JRPreviewLabel.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C87F405D1C515FA100B1E3EF /* JRPreviewLabel.h in Headers */ = {isa = PBXBuildFile; fileRef = C87F3ED41C515FA000B1E3EF /* JRPreviewLabel.h */; };
 		C87F405E1C515FA100B1E3EF /* JRPreviewLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = C87F3ED51C515FA000B1E3EF /* JRPreviewLabel.m */; };
-		C87F405F1C515FA100B1E3EF /* JRProvidersController.h in Headers */ = {isa = PBXBuildFile; fileRef = C87F3ED61C515FA000B1E3EF /* JRProvidersController.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C87F405F1C515FA100B1E3EF /* JRProvidersController.h in Headers */ = {isa = PBXBuildFile; fileRef = C87F3ED61C515FA000B1E3EF /* JRProvidersController.h */; };
 		C87F40601C515FA100B1E3EF /* JRProvidersController.m in Sources */ = {isa = PBXBuildFile; fileRef = C87F3ED71C515FA000B1E3EF /* JRProvidersController.m */; };
-		C87F40611C515FA100B1E3EF /* JRPublishActivityController.h in Headers */ = {isa = PBXBuildFile; fileRef = C87F3ED81C515FA000B1E3EF /* JRPublishActivityController.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C87F40611C515FA100B1E3EF /* JRPublishActivityController.h in Headers */ = {isa = PBXBuildFile; fileRef = C87F3ED81C515FA000B1E3EF /* JRPublishActivityController.h */; };
 		C87F40621C515FA100B1E3EF /* JRPublishActivityController.m in Sources */ = {isa = PBXBuildFile; fileRef = C87F3ED91C515FA000B1E3EF /* JRPublishActivityController.m */; };
-		C87F40631C515FA100B1E3EF /* JRSessionData.h in Headers */ = {isa = PBXBuildFile; fileRef = C87F3EDA1C515FA000B1E3EF /* JRSessionData.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C87F40631C515FA100B1E3EF /* JRSessionData.h in Headers */ = {isa = PBXBuildFile; fileRef = C87F3EDA1C515FA000B1E3EF /* JRSessionData.h */; };
 		C87F40641C515FA100B1E3EF /* JRSessionData.m in Sources */ = {isa = PBXBuildFile; fileRef = C87F3EDB1C515FA000B1E3EF /* JRSessionData.m */; };
-		C87F40651C515FA100B1E3EF /* JRUserInterfaceMaestro.h in Headers */ = {isa = PBXBuildFile; fileRef = C87F3EDC1C515FA000B1E3EF /* JRUserInterfaceMaestro.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C87F40651C515FA100B1E3EF /* JRUserInterfaceMaestro.h in Headers */ = {isa = PBXBuildFile; fileRef = C87F3EDC1C515FA000B1E3EF /* JRUserInterfaceMaestro.h */; };
 		C87F40661C515FA100B1E3EF /* JRUserInterfaceMaestro.m in Sources */ = {isa = PBXBuildFile; fileRef = C87F3EDD1C515FA000B1E3EF /* JRUserInterfaceMaestro.m */; };
-		C87F40671C515FA100B1E3EF /* JRUserLandingController.h in Headers */ = {isa = PBXBuildFile; fileRef = C87F3EDE1C515FA000B1E3EF /* JRUserLandingController.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C87F40671C515FA100B1E3EF /* JRUserLandingController.h in Headers */ = {isa = PBXBuildFile; fileRef = C87F3EDE1C515FA000B1E3EF /* JRUserLandingController.h */; };
 		C87F40681C515FA100B1E3EF /* JRUserLandingController.m in Sources */ = {isa = PBXBuildFile; fileRef = C87F3EDF1C515FA000B1E3EF /* JRUserLandingController.m */; };
-		C87F40691C515FA100B1E3EF /* JRWebViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = C87F3EE01C515FA000B1E3EF /* JRWebViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C87F40691C515FA100B1E3EF /* JRWebViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = C87F3EE01C515FA000B1E3EF /* JRWebViewController.h */; };
 		C87F406A1C515FA100B1E3EF /* JRWebViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C87F3EE11C515FA000B1E3EF /* JRWebViewController.m */; };
 		C87F406B1C515FA100B1E3EF /* JREngage-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = C87F3EE21C515FA000B1E3EF /* JREngage-Info.plist */; };
 		C87F406C1C515FA100B1E3EF /* JREngagePlugin.js in Resources */ = {isa = PBXBuildFile; fileRef = C87F3EE31C515FA000B1E3EF /* JREngagePlugin.js */; };
@@ -381,7 +381,7 @@
 		C87F41481C515FA100B1E3EF /* JRProvidersController.xib in Resources */ = {isa = PBXBuildFile; fileRef = C87F3FCF1C515FA100B1E3EF /* JRProvidersController.xib */; };
 		C87F41491C515FA100B1E3EF /* JRUserLandingController.xib in Resources */ = {isa = PBXBuildFile; fileRef = C87F3FD01C515FA100B1E3EF /* JRUserLandingController.xib */; };
 		C87F414A1C515FA100B1E3EF /* JRWebViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = C87F3FD11C515FA100B1E3EF /* JRWebViewController.xib */; };
-		C87F414B1C515FA100B1E3EF /* SFHFKeychainUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = C87F3FD31C515FA100B1E3EF /* SFHFKeychainUtils.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C87F414B1C515FA100B1E3EF /* SFHFKeychainUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = C87F3FD31C515FA100B1E3EF /* SFHFKeychainUtils.h */; };
 		C87F414C1C515FA100B1E3EF /* SFHFKeychainUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = C87F3FD41C515FA100B1E3EF /* SFHFKeychainUtils.m */; };
 		C8E500E61BECEF31008A469F /* JanrainFramework.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E500E51BECEF31008A469F /* JanrainFramework.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C8E500ED1BECEF31008A469F /* JanrainFramework.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C8E500E21BECEF31008A469F /* JanrainFramework.framework */; };
@@ -1560,78 +1560,78 @@
 			buildActionMask = 2147483647;
 			files = (
 				C87F3FE51C515FA100B1E3EF /* JRDevicesTemp.h in Headers */,
+				C87F3FE31C515FA100B1E3EF /* JRDevicesElement.h in Headers */,
+				C87F3FDD1C515FA100B1E3EF /* JRCaptureUser.h in Headers */,
+				C87F3FF71C515FA100B1E3EF /* JRPrimaryAddress.h in Headers */,
+				C87F3FEF1C515FA100B1E3EF /* JRName.h in Headers */,
+				C87F3FE11C515FA100B1E3EF /* JRCurrentLocation.h in Headers */,
+				C87F3FF91C515FA100B1E3EF /* JRProfile.h in Headers */,
+				C87F3FFD1C515FA100B1E3EF /* JRProfilesElement.h in Headers */,
+				C87F3FDF1C515FA100B1E3EF /* JRClientsElement.h in Headers */,
+				C87F3FF31C515FA100B1E3EF /* JRPhoneNumbersElement.h in Headers */,
+				C87F3FE71C515FA100B1E3EF /* JREmailsElement.h in Headers */,
+				C87F3FD71C515FA100B1E3EF /* JRAccountsElement.h in Headers */,
+				C87F3FDB1C515FA100B1E3EF /* JRBodyType.h in Headers */,
+				C8E500E61BECEF31008A469F /* JanrainFramework.h in Headers */,
+				C87F3FED1C515FA100B1E3EF /* JRLocation.h in Headers */,
+				C87F40051C515FA100B1E3EF /* JRStatusesElement.h in Headers */,
+				C87F400D1C515FA100B1E3EF /* JRUserSettings.h in Headers */,
+				C87F3FFB1C515FA100B1E3EF /* JRProfilePhotosElement.h in Headers */,
+				C87F3FFF1C515FA100B1E3EF /* JRRunnersWorld.h in Headers */,
+				C87F3FF51C515FA100B1E3EF /* JRPhotosElement.h in Headers */,
+				C87F3FD91C515FA100B1E3EF /* JRAddressesElement.h in Headers */,
+				C87F3FF11C515FA100B1E3EF /* JROrganizationsElement.h in Headers */,
+				C87F40011C515FA100B1E3EF /* JRRunnersWorldFavoritesTemp.h in Headers */,
+				C87F3FE91C515FA100B1E3EF /* JRFavoritesElement.h in Headers */,
+				C87F400B1C515FA100B1E3EF /* JRUrlsElement.h in Headers */,
+				C87F40191C515FA100B1E3EF /* JRCaptureError.h in Headers */,
+				C87F40091C515FA100B1E3EF /* JRTrainingPlanSelection.h in Headers */,
+				C87F40031C515FA100B1E3EF /* JRRunnersWorldGoApp.h in Headers */,
+				C87F40071C515FA100B1E3EF /* JRTemporaryData.h in Headers */,
+				C87F40461C515FA100B1E3EF /* JREngage+CustomInterface.h in Headers */,
+				C87F404A1C515FA100B1E3EF /* JREngageError.h in Headers */,
+				C87F401E1C515FA100B1E3EF /* JRCaptureObject.h in Headers */,
+				C87F40541C515FA100B1E3EF /* JRNativeAuthConfig.h in Headers */,
+				C87F40271C515FA100B1E3EF /* JRNSDate+ISO8601_CaptureDateTimeString.h in Headers */,
+				C87F40101C515FA100B1E3EF /* JRCapture.h in Headers */,
+				C87F40141C515FA100B1E3EF /* JRCaptureConfig.h in Headers */,
+				C87F40201C515FA100B1E3EF /* JRCaptureTypes.h in Headers */,
+				C87F40121C515FA100B1E3EF /* JRCaptureApidInterface.h in Headers */,
+				C87F40521C515FA100B1E3EF /* JRNativeAuth.h in Headers */,
+				C87F40481C515FA100B1E3EF /* JREngage.h in Headers */,
 				C87F40571C515FA100B1E3EF /* JRNativeGooglePlus.h in Headers */,
 				C87F401D1C515FA100B1E3EF /* JRCaptureObject+Internal.h in Headers */,
 				C87F40671C515FA100B1E3EF /* JRUserLandingController.h in Headers */,
 				C87F40371C515FA100B1E3EF /* JRConnectionManager.h in Headers */,
 				C87F40161C515FA100B1E3EF /* JRCaptureData.h in Headers */,
+				C87F3FEB1C515FA100B1E3EF /* JRImsElement.h in Headers */,
 				C87F414B1C515FA100B1E3EF /* SFHFKeychainUtils.h in Headers */,
-				C87F3FE31C515FA100B1E3EF /* JRDevicesElement.h in Headers */,
 				C87F40211C515FA100B1E3EF /* JRCaptureUIRequestBuilder.h in Headers */,
-				C87F40461C515FA100B1E3EF /* JREngage+CustomInterface.h in Headers */,
-				C87F3FDD1C515FA100B1E3EF /* JRCaptureUser.h in Headers */,
 				C87F404C1C515FA100B1E3EF /* JREngagePhonegapPlugin.h in Headers */,
 				C87F40631C515FA100B1E3EF /* JRSessionData.h in Headers */,
 				C87F403B1C515FA100B1E3EF /* NSMutableURLRequest+JRRequestUtils.h in Headers */,
-				C87F40141C515FA100B1E3EF /* JRCaptureConfig.h in Headers */,
 				C87F40651C515FA100B1E3EF /* JRUserInterfaceMaestro.h in Headers */,
 				C87F40181C515FA100B1E3EF /* JRCaptureEnvironment.h in Headers */,
 				C87F40291C515FA100B1E3EF /* JRTraditionalSigninViewController.h in Headers */,
 				C87F405D1C515FA100B1E3EF /* JRPreviewLabel.h in Headers */,
 				C87F40391C515FA100B1E3EF /* NSDictionary+JRQueryParams.h in Headers */,
-				C87F3FF71C515FA100B1E3EF /* JRPrimaryAddress.h in Headers */,
-				C87F3FEF1C515FA100B1E3EF /* JRName.h in Headers */,
-				C87F3FE11C515FA100B1E3EF /* JRCurrentLocation.h in Headers */,
 				C87F40611C515FA100B1E3EF /* JRPublishActivityController.h in Headers */,
-				C87F3FF91C515FA100B1E3EF /* JRProfile.h in Headers */,
 				C87F403D1C515FA100B1E3EF /* NSURLRequest+JRQueryParams.h in Headers */,
-				C87F404A1C515FA100B1E3EF /* JREngageError.h in Headers */,
-				C87F3FFD1C515FA100B1E3EF /* JRProfilesElement.h in Headers */,
-				C87F40271C515FA100B1E3EF /* JRNSDate+ISO8601_CaptureDateTimeString.h in Headers */,
 				C87F401B1C515FA100B1E3EF /* JRCaptureFlow.h in Headers */,
-				C87F3FDF1C515FA100B1E3EF /* JRClientsElement.h in Headers */,
 				C87F40501C515FA100B1E3EF /* JRJsonUtils.h in Headers */,
-				C87F3FF31C515FA100B1E3EF /* JRPhoneNumbersElement.h in Headers */,
-				C87F3FE71C515FA100B1E3EF /* JREmailsElement.h in Headers */,
-				C87F3FD71C515FA100B1E3EF /* JRAccountsElement.h in Headers */,
-				C87F401E1C515FA100B1E3EF /* JRCaptureObject.h in Headers */,
 				C87F404E1C515FA100B1E3EF /* JRInfoBar.h in Headers */,
-				C87F3FDB1C515FA100B1E3EF /* JRBodyType.h in Headers */,
-				C87F40121C515FA100B1E3EF /* JRCaptureApidInterface.h in Headers */,
 				C87F405B1C515FA100B1E3EF /* JRNativeTwitter.h in Headers */,
-				C8E500E61BECEF31008A469F /* JanrainFramework.h in Headers */,
-				C87F40541C515FA100B1E3EF /* JRNativeAuthConfig.h in Headers */,
-				C87F40521C515FA100B1E3EF /* JRNativeAuth.h in Headers */,
 				C87F40251C515FA100B1E3EF /* JREngageWrapper.h in Headers */,
-				C87F3FED1C515FA100B1E3EF /* JRLocation.h in Headers */,
 				C87F405F1C515FA100B1E3EF /* JRProvidersController.h in Headers */,
-				C87F40051C515FA100B1E3EF /* JRStatusesElement.h in Headers */,
-				C87F40101C515FA100B1E3EF /* JRCapture.h in Headers */,
-				C87F400D1C515FA100B1E3EF /* JRUserSettings.h in Headers */,
-				C87F3FFB1C515FA100B1E3EF /* JRProfilePhotosElement.h in Headers */,
-				C87F3FFF1C515FA100B1E3EF /* JRRunnersWorld.h in Headers */,
-				C87F3FF51C515FA100B1E3EF /* JRPhotosElement.h in Headers */,
 				C87F402B1C515FA100B1E3EF /* NSMutableDictionary+JRDictionaryUtils.h in Headers */,
-				C87F40481C515FA100B1E3EF /* JREngage.h in Headers */,
-				C87F3FD91C515FA100B1E3EF /* JRAddressesElement.h in Headers */,
-				C87F3FF11C515FA100B1E3EF /* JROrganizationsElement.h in Headers */,
 				C87F3FD51C515FA100B1E3EF /* JRBase64.h in Headers */,
 				C87F40421C515FA100B1E3EF /* JRActivityObject.h in Headers */,
 				C87F40551C515FA100B1E3EF /* JRNativeFacebook.h in Headers */,
 				C87F40401C515FA100B1E3EF /* debug_log.h in Headers */,
-				C87F40011C515FA100B1E3EF /* JRRunnersWorldFavoritesTemp.h in Headers */,
 				C87F40691C515FA100B1E3EF /* JRWebViewController.h in Headers */,
 				C87F40231C515FA100B1E3EF /* JRCaptureUser+Extras.h in Headers */,
 				C87F40591C515FA100B1E3EF /* JRNativeProvider.h in Headers */,
-				C87F3FE91C515FA100B1E3EF /* JRFavoritesElement.h in Headers */,
-				C87F400B1C515FA100B1E3EF /* JRUrlsElement.h in Headers */,
-				C87F40091C515FA100B1E3EF /* JRTrainingPlanSelection.h in Headers */,
-				C87F40201C515FA100B1E3EF /* JRCaptureTypes.h in Headers */,
-				C87F40191C515FA100B1E3EF /* JRCaptureError.h in Headers */,
 				C87F40441C515FA100B1E3EF /* JRCompatibilityUtils.h in Headers */,
-				C87F40031C515FA100B1E3EF /* JRRunnersWorldGoApp.h in Headers */,
-				C87F40071C515FA100B1E3EF /* JRTemporaryData.h in Headers */,
-				C87F3FEB1C515FA100B1E3EF /* JRImsElement.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
