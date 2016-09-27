@@ -65,7 +65,6 @@
 		C87F400C1C515FA100B1E3EF /* JRUrlsElement.m in Sources */ = {isa = PBXBuildFile; fileRef = C87F3E7B1C515FA000B1E3EF /* JRUrlsElement.m */; };
 		C87F400D1C515FA100B1E3EF /* JRUserSettings.h in Headers */ = {isa = PBXBuildFile; fileRef = C87F3E7C1C515FA000B1E3EF /* JRUserSettings.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C87F400E1C515FA100B1E3EF /* JRUserSettings.m in Sources */ = {isa = PBXBuildFile; fileRef = C87F3E7D1C515FA000B1E3EF /* JRUserSettings.m */; };
-		C87F400F1C515FA100B1E3EF /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = C87F3E801C515FA000B1E3EF /* .gitignore */; };
 		C87F40101C515FA100B1E3EF /* JRCapture.h in Headers */ = {isa = PBXBuildFile; fileRef = C87F3E811C515FA000B1E3EF /* JRCapture.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C87F40111C515FA100B1E3EF /* JRCapture.m in Sources */ = {isa = PBXBuildFile; fileRef = C87F3E821C515FA000B1E3EF /* JRCapture.m */; };
 		C87F40121C515FA100B1E3EF /* JRCaptureApidInterface.h in Headers */ = {isa = PBXBuildFile; fileRef = C87F3E831C515FA000B1E3EF /* JRCaptureApidInterface.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -96,15 +95,6 @@
 		C87F402B1C515FA100B1E3EF /* NSMutableDictionary+JRDictionaryUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = C87F3E9C1C515FA000B1E3EF /* NSMutableDictionary+JRDictionaryUtils.h */; };
 		C87F402C1C515FA100B1E3EF /* NSMutableDictionary+JRDictionaryUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = C87F3E9D1C515FA000B1E3EF /* NSMutableDictionary+JRDictionaryUtils.m */; };
 		C87F402D1C515FA100B1E3EF /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = C87F3E9F1C515FA000B1E3EF /* Localizable.strings */; };
-		C87F402E1C515FA100B1E3EF /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = C87F3EA21C515FA000B1E3EF /* .gitignore */; };
-		C87F402F1C515FA100B1E3EF /* CaptureSchemaParser.pl in Resources */ = {isa = PBXBuildFile; fileRef = C87F3EA31C515FA000B1E3EF /* CaptureSchemaParser.pl */; };
-		C87F40301C515FA100B1E3EF /* default-schema.json in Resources */ = {isa = PBXBuildFile; fileRef = C87F3EA41C515FA000B1E3EF /* default-schema.json */; };
-		C87F40311C515FA100B1E3EF /* ObjCMethodParts.pl in Resources */ = {isa = PBXBuildFile; fileRef = C87F3EA51C515FA000B1E3EF /* ObjCMethodParts.pl */; };
-		C87F40321C515FA100B1E3EF /* regen_demo.sh in Resources */ = {isa = PBXBuildFile; fileRef = C87F3EA61C515FA000B1E3EF /* regen_demo.sh */; };
-		C87F40331C515FA100B1E3EF /* regen_test.sh in Resources */ = {isa = PBXBuildFile; fileRef = C87F3EA71C515FA000B1E3EF /* regen_test.sh */; };
-		C87F40341C515FA100B1E3EF /* reserved_attributes.json in Resources */ = {isa = PBXBuildFile; fileRef = C87F3EA81C515FA000B1E3EF /* reserved_attributes.json */; };
-		C87F40351C515FA100B1E3EF /* simple_capture_demo_schema.json in Resources */ = {isa = PBXBuildFile; fileRef = C87F3EA91C515FA000B1E3EF /* simple_capture_demo_schema.json */; };
-		C87F40361C515FA100B1E3EF /* typemap.txt in Resources */ = {isa = PBXBuildFile; fileRef = C87F3EAA1C515FA000B1E3EF /* typemap.txt */; };
 		C87F40371C515FA100B1E3EF /* JRConnectionManager.h in Headers */ = {isa = PBXBuildFile; fileRef = C87F3EAC1C515FA000B1E3EF /* JRConnectionManager.h */; };
 		C87F40381C515FA100B1E3EF /* JRConnectionManager.m in Sources */ = {isa = PBXBuildFile; fileRef = C87F3EAD1C515FA000B1E3EF /* JRConnectionManager.m */; };
 		C87F40391C515FA100B1E3EF /* NSDictionary+JRQueryParams.h in Headers */ = {isa = PBXBuildFile; fileRef = C87F3EAE1C515FA000B1E3EF /* NSDictionary+JRQueryParams.h */; };
@@ -113,7 +103,6 @@
 		C87F403C1C515FA100B1E3EF /* NSMutableURLRequest+JRRequestUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = C87F3EB11C515FA000B1E3EF /* NSMutableURLRequest+JRRequestUtils.m */; };
 		C87F403D1C515FA100B1E3EF /* NSURLRequest+JRQueryParams.h in Headers */ = {isa = PBXBuildFile; fileRef = C87F3EB21C515FA000B1E3EF /* NSURLRequest+JRQueryParams.h */; };
 		C87F403E1C515FA100B1E3EF /* NSURLRequest+JRQueryParams.m in Sources */ = {isa = PBXBuildFile; fileRef = C87F3EB31C515FA000B1E3EF /* NSURLRequest+JRQueryParams.m */; };
-		C87F403F1C515FA100B1E3EF /* ATTRIBUTION in Resources */ = {isa = PBXBuildFile; fileRef = C87F3EB51C515FA000B1E3EF /* ATTRIBUTION */; };
 		C87F40401C515FA100B1E3EF /* debug_log.h in Headers */ = {isa = PBXBuildFile; fileRef = C87F3EB71C515FA000B1E3EF /* debug_log.h */; };
 		C87F40411C515FA100B1E3EF /* debug_log.m in Sources */ = {isa = PBXBuildFile; fileRef = C87F3EB81C515FA000B1E3EF /* debug_log.m */; };
 		C87F40421C515FA100B1E3EF /* JRActivityObject.h in Headers */ = {isa = PBXBuildFile; fileRef = C87F3EB91C515FA000B1E3EF /* JRActivityObject.h */; };
@@ -158,7 +147,6 @@
 		C87F40691C515FA100B1E3EF /* JRWebViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = C87F3EE01C515FA000B1E3EF /* JRWebViewController.h */; };
 		C87F406A1C515FA100B1E3EF /* JRWebViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C87F3EE11C515FA000B1E3EF /* JRWebViewController.m */; };
 		C87F406B1C515FA100B1E3EF /* JREngage-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = C87F3EE21C515FA000B1E3EF /* JREngage-Info.plist */; };
-		C87F406C1C515FA100B1E3EF /* JREngagePlugin.js in Resources */ = {isa = PBXBuildFile; fileRef = C87F3EE31C515FA000B1E3EF /* JREngagePlugin.js */; };
 		C87F406D1C515FA100B1E3EF /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = C87F3EE51C515FA000B1E3EF /* Localizable.strings */; };
 		C87F406E1C515FA100B1E3EF /* button_black_135x40.png in Resources */ = {isa = PBXBuildFile; fileRef = C87F3EE91C515FA000B1E3EF /* button_black_135x40.png */; };
 		C87F406F1C515FA100B1E3EF /* button_black_280x40.png in Resources */ = {isa = PBXBuildFile; fileRef = C87F3EEA1C515FA000B1E3EF /* button_black_280x40.png */; };
@@ -1734,7 +1722,7 @@
 		C8E500D91BECEF31008A469F /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0710;
+				LastUpgradeCheck = 0800;
 				ORGANIZATIONNAME = Rodale;
 				TargetAttributes = {
 					C8E500E11BECEF31008A469F = {
@@ -1796,7 +1784,6 @@
 				C87F412C1C515FA100B1E3EF /* logo_instagram_280x65@2x.png in Resources */,
 				C87F40931C515FA100B1E3EF /* icon_instagram_30x30.png in Resources */,
 				C87F40CC1C515FA100B1E3EF /* logo_salesforce_280x65.png in Resources */,
-				C87F400F1C515FA100B1E3EF /* .gitignore in Resources */,
 				C87F41081C515FA100B1E3EF /* icon_orkut_30x30@2x.png in Resources */,
 				C87F409C1C515FA100B1E3EF /* icon_orkut_30x30.png in Resources */,
 				C87F40FE1C515FA100B1E3EF /* icon_hyves_30x30@2x.png in Resources */,
@@ -1835,7 +1822,6 @@
 				C87F40741C515FA100B1E3EF /* button_googleplus_135x40.png in Resources */,
 				C87F40941C515FA100B1E3EF /* icon_linkedin_30x30.png in Resources */,
 				C87F40D81C515FA100B1E3EF /* profilepic_placeholder.png in Resources */,
-				C87F402E1C515FA100B1E3EF /* .gitignore in Resources */,
 				C87F41211C515FA100B1E3EF /* icon_bw_yahoo_30x30@2x.png in Resources */,
 				C87F41351C515FA100B1E3EF /* logo_openid_280x65@2x.png in Resources */,
 				C87F40731C515FA100B1E3EF /* button_google_280x40.png in Resources */,
@@ -1846,7 +1832,6 @@
 				C87F41401C515FA100B1E3EF /* logo_yahoo_oauth2_280x65@2x.png in Resources */,
 				C87F40901C515FA100B1E3EF /* icon_google_30x30.png in Resources */,
 				C87F40871C515FA100B1E3EF /* button_yahoo_280x40.png in Resources */,
-				C87F40361C515FA100B1E3EF /* typemap.txt in Resources */,
 				C87F40C41C515FA100B1E3EF /* logo_microsoftaccount_280x65.png in Resources */,
 				C87F408C1C515FA100B1E3EF /* icon_blogger_30x30.png in Resources */,
 				C87F40751C515FA100B1E3EF /* button_googleplus_280x40.png in Resources */,
@@ -1862,7 +1847,6 @@
 				C87F41441C515FA100B1E3EF /* music_note@2x.jpg in Resources */,
 				C87F411B1C515FA100B1E3EF /* icon_bw_microsoftaccount_30x30@2x.png in Resources */,
 				C87F40E21C515FA100B1E3EF /* button_instagram_135x40@2x.png in Resources */,
-				C87F40321C515FA100B1E3EF /* regen_demo.sh in Resources */,
 				C87F40C81C515FA100B1E3EF /* logo_openid_280x65.png in Resources */,
 				C87F40C11C515FA100B1E3EF /* logo_linkedin_280x65.png in Resources */,
 				C87F40CD1C515FA100B1E3EF /* logo_soundcloud_280x65.png in Resources */,
@@ -1890,7 +1874,6 @@
 				C87F40A31C515FA100B1E3EF /* icon_verisign_30x30.png in Resources */,
 				C87F40EA1C515FA100B1E3EF /* button_myspace_135x40@2x.png in Resources */,
 				C87F40D71C515FA100B1E3EF /* music_note.jpg in Resources */,
-				C87F40301C515FA100B1E3EF /* default-schema.json in Resources */,
 				C87F40AF1C515FA100B1E3EF /* icon_bw_microsoftaccount_30x30.png in Resources */,
 				C87F412D1C515FA100B1E3EF /* logo_instagram_white_on_blue_280x65@2x.png in Resources */,
 				C87F40E81C515FA100B1E3EF /* button_linkedin_135x40@2x.png in Resources */,
@@ -1959,15 +1942,12 @@
 				C87F410D1C515FA100B1E3EF /* icon_tumblr_30x30@2x.png in Resources */,
 				C87F40B31C515FA100B1E3EF /* icon_bw_sms_30x30.png in Resources */,
 				C87F41251C515FA100B1E3EF /* logo_blogger_280x65@2x.png in Resources */,
-				C87F406C1C515FA100B1E3EF /* JREngagePlugin.js in Resources */,
 				C87F41001C515FA100B1E3EF /* icon_linkedin_30x30@2x.png in Resources */,
-				C87F40341C515FA100B1E3EF /* reserved_attributes.json in Resources */,
 				C87F41151C515FA100B1E3EF /* icon_bw_facebook_30x30@2x.png in Resources */,
 				C87F40A71C515FA100B1E3EF /* icon_yahoo_oauth2_30x30.png in Resources */,
 				C87F41301C515FA100B1E3EF /* logo_livejournal_280x65@2x.png in Resources */,
 				C87F40E41C515FA100B1E3EF /* button_iosblue_135x40@2x.png in Resources */,
 				C87F40F51C515FA100B1E3EF /* button_yahoo_oauth2_280x40@2x.png in Resources */,
-				C87F402F1C515FA100B1E3EF /* CaptureSchemaParser.pl in Resources */,
 				C87F402D1C515FA100B1E3EF /* Localizable.strings in Resources */,
 				C87F40D11C515FA100B1E3EF /* logo_vzn_280x65.png in Resources */,
 				C87F411D1C515FA100B1E3EF /* icon_bw_paypal_30x30@2x.png in Resources */,
@@ -1984,7 +1964,6 @@
 				C87F40E91C515FA100B1E3EF /* button_linkedin_280x40@2x.png in Resources */,
 				C87F40E31C515FA100B1E3EF /* button_instagram_280x40@2x.png in Resources */,
 				C87F40921C515FA100B1E3EF /* icon_hyves_30x30.png in Resources */,
-				C87F403F1C515FA100B1E3EF /* ATTRIBUTION in Resources */,
 				C87F40FF1C515FA100B1E3EF /* icon_instagram_30x30@2x.png in Resources */,
 				C87F41071C515FA100B1E3EF /* icon_openid_30x30@2x.png in Resources */,
 				C87F40781C515FA100B1E3EF /* button_iosblue_135x40.png in Resources */,
@@ -1996,7 +1975,6 @@
 				C87F41091C515FA100B1E3EF /* icon_paypal_30x30@2x.png in Resources */,
 				C87F408B1C515FA100B1E3EF /* icon_aol_30x30.png in Resources */,
 				C87F40AA1C515FA100B1E3EF /* icon_bw_googleplus_30x30.png in Resources */,
-				C87F40331C515FA100B1E3EF /* regen_test.sh in Resources */,
 				C87F40701C515FA100B1E3EF /* button_facebook_135x40.png in Resources */,
 				C87F40841C515FA100B1E3EF /* button_twitter_135x40.png in Resources */,
 				C87F40881C515FA100B1E3EF /* button_yahoo_oauth2_135x40.png in Resources */,
@@ -2007,10 +1985,8 @@
 				C87F411E1C515FA100B1E3EF /* icon_bw_paypal_openidconnect_30x30@2x.png in Resources */,
 				C87F413A1C515FA100B1E3EF /* logo_soundcloud_280x65@2x.png in Resources */,
 				C87F40C51C515FA100B1E3EF /* logo_myopenid_280x65.png in Resources */,
-				C87F40351C515FA100B1E3EF /* simple_capture_demo_schema.json in Resources */,
 				C87F40EB1C515FA100B1E3EF /* button_myspace_280x40@2x.png in Resources */,
 				C87F40E71C515FA100B1E3EF /* button_janrain_280x40@2x.png in Resources */,
-				C87F40311C515FA100B1E3EF /* ObjCMethodParts.pl in Resources */,
 				C87F40CE1C515FA100B1E3EF /* logo_tumblr_280x65.png in Resources */,
 				C87F40A61C515FA100B1E3EF /* icon_yahoo_30x30.png in Resources */,
 				C87F40DA1C515FA100B1E3EF /* button_black_135x40@2x.png in Resources */,
@@ -2248,11 +2224,13 @@
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				COPY_PHASE_STRIP = NO;
 				CURRENT_PROJECT_VERSION = 1;
 				DEBUG_INFORMATION_FORMAT = dwarf;
@@ -2295,11 +2273,13 @@
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				COPY_PHASE_STRIP = NO;
 				CURRENT_PROJECT_VERSION = 1;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
